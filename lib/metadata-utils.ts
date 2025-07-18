@@ -17,7 +17,7 @@ export async function generatePageMetadata({
     const t = await getTranslations({ locale, namespace })
     const cookieStore = await cookies()
     let pathName = cookieStore.get('x-pathname')?.value || '/'
-    const baseUrl = process.env.NODE_ENV === 'production' ? 'https://pixfy.io' : 'http://localhost:3000'
+    const baseUrl = process.env.NODE_ENV === 'production' ? 'https://gagcalculator.cc' : 'http://localhost:3000'
     
     // URL locale codes (what appears in URLs)
     const urlLocales = ['ar', 'zh', 'es', 'fr', 'pt', 'ru', 'ko', 'jp', 'de', 'it', 'hi', 'nl']
