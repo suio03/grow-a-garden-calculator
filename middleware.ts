@@ -5,6 +5,11 @@ import { routing } from "./i18n/routing";
 const intlMiddleware = createIntlMiddleware(routing);
 
 export default function middleware(request: NextRequest) {
+    // Skip middleware for robots.txt and sitemap.xml
+    if (request.nextUrl.pathname === '/robots.txt' || request.nextUrl.pathname === '/sitemap.xml') {
+        return;
+    }
+    
     // Get response from the intl middleware
     const response = intlMiddleware(request);
     
