@@ -8,7 +8,7 @@ import { useTranslations } from 'next-intl'
 import fruitsData from '@/data/fruits.json'
 import mutationsData from '@/data/mutations.json'
 import configData from '@/data/config.json'
-import Sheckle from '@/public/sheckle.webp'
+import Sheckle from '@/public/images/sheckle.webp'
 const { fruits, values: fruitValues, cropData } = fruitsData as {
     fruits: string[],
     values: Record<string, number>,
