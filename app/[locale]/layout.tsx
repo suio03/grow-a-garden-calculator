@@ -3,14 +3,14 @@ import { NextIntlClientProvider } from 'next-intl'
 import { getMessages } from "next-intl/server"
 import type { ReactNode } from 'react'
 import '../globals.css'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 import { generatePageMetadata } from '@/lib/metadata-utils'
 
 function getHreflangCode(urlLocale: string): string {
     const hreflangMap: Record<string, string> = {
         'en': 'en',
-        'ar': 'ar',
+        'ar': 'ar', 
         'zh': 'zh-CN',
         'es': 'es-ES', 
         'fr': 'fr-FR',

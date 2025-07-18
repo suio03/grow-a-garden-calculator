@@ -1,5 +1,7 @@
-import FruitGallery from '../components/FruitGallery'
+import FruitGallery from '@/components/FruitGallery'
 import { useTranslations } from 'next-intl'
+
+export const runtime = 'edge'
 
 export default function Home() {
     const t = useTranslations('page')
