@@ -17,10 +17,15 @@ export default function middleware(request: NextRequest) {
 }
 export const config = {
     matcher: [
-        // Skip all internal paths (_next) and static files with extensions (e.g. .xml, .txt, .ico)
-        '/((?!api|_next/static|_next/image|.*\\..*).*)',
-        
-        // Match all paths that have a locale prefix
-        '/(en|zh|jp|ko|es|fr|de|it|pt|ru|ar|hi|nl)/:path*'
-    ]
+        // Enable a redirect to a matching locale at the root
+        "/",
+
+        // Set a cookie to remember the previous locale for
+        // all requests that have a locale prefix
+        "/(en|zh|jp|ko|es|fr|de|it|pt|ru|ar|hi|nl)/:path*",
+
+        // Enable redirects that add missing locales
+        // (e.g. `/pathnames` -> `/en/pathnames`)
+        "/((?!en|zh|jp|ko|es|fr|de|it|pt|ru|ar|hi|nl|_next|_vercel|.*\\..*|api/|robots\\.txt|sitemap\\.xml).*)",
+    ],
 };
