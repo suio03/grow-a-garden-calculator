@@ -20,6 +20,7 @@ export default function middleware(request: NextRequest) {
     
     return response;
 }
+
 export const config = {
     matcher: [
         // Enable a redirect to a matching locale at the root
@@ -31,6 +32,6 @@ export const config = {
 
         // Enable redirects that add missing locales
         // (e.g. `/pathnames` -> `/en/pathnames`)
-        "/((?!en|zh|jp|ko|es|fr|de|it|pt|ru|ar|hi|nl|_next|_vercel|.*\\..*|api/|robots\\.txt|sitemap\\.xml).*)",
+        "/((?!en|_next|_vercel|.*\\..*|api/).*)",
     ],
 };
