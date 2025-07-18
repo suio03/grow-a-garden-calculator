@@ -6,13 +6,14 @@ import '../globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { generatePageMetadata } from '@/lib/metadata-utils'
+import Analytics from '@/components/analytics'
 
 function getHreflangCode(urlLocale: string): string {
     const hreflangMap: Record<string, string> = {
         'en': 'en',
-        'ar': 'ar', 
+        'ar': 'ar',
         'zh': 'zh-CN',
-        'es': 'es-ES', 
+        'es': 'es-ES',
         'fr': 'fr-FR',
         'pt': 'pt-BR',
         'ru': 'ru-RU',
@@ -22,8 +23,8 @@ function getHreflangCode(urlLocale: string): string {
         'it': 'it-IT',
         'hi': 'hi-IN',
         'nl': 'nl-NL'
-    };
-    return hreflangMap[urlLocale] || urlLocale;
+    }
+    return hreflangMap[urlLocale] || urlLocale
 }
 
 type Props = {
@@ -54,12 +55,13 @@ export default async function DashboardLayout({
     const htmlLang = getHreflangCode(locale || 'en')
     return (
         <html lang={htmlLang}>
+            <Analytics />
             <body className="font-sans antialiased text-gray-800 tracking-tight">
                 {/* Beautiful gradient background */}
                 <div className="fixed inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]">
                     <div className="absolute bottom-0 left-0 right-0 top-0 bg-[radial-gradient(circle_800px_at_100%_200px,#d5c5ff,transparent)]"></div>
                 </div>
-                
+
                 <NextIntlClientProvider messages={messages}>
                     <div className="min-h-screen flex flex-col">
                         <Header />
