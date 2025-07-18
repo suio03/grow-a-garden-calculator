@@ -8,7 +8,7 @@ import { useTranslations } from 'next-intl'
 import fruitsData from '@/data/fruits.json'
 import mutationsData from '@/data/mutations.json'
 import configData from '@/data/config.json'
-
+import Sheckle from '@/public/sheckle.webp'
 const { fruits, values: fruitValues, cropData } = fruitsData as {
     fruits: string[],
     values: Record<string, number>,
@@ -393,7 +393,7 @@ export default function FruitGallery() {
                                 <div className="bg-gradient-to-br from-purple-50 to-white border border-purple-200 rounded-xl p-4 text-center shadow-sm mb-4">
                                     <div className="text-2xl font-bold text-purple-700 mb-1 flex items-center justify-center gap-1">
                                         <Image
-                                            src="/sheckle.webp"
+                                            src={Sheckle}
                                             alt="Sheckle"
                                             width={24}
                                             height={24}
