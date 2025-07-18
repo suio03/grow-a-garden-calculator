@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import VioletCorn from '@/public/fruits/violetcorn.webp'
+import VioletCorn from '@/public/favicon.svg'
 import Image from 'next/image'
 import Link from 'next/link';
 export default function Footer() {
@@ -15,7 +15,7 @@ export default function Footer() {
             {/* Brand Section */}
             <div className="md:col-span-2">
               <div className="flex items-center gap-3 mb-4">
-                <Image src={VioletCorn} alt="Violet Corn" width={32} height={32} />
+                <Image src={VioletCorn} alt="Violet Corn" width={64} height={64} />
                 <h3 className="text-xl font-bold text-gray-800">Grow a Garden Calculator</h3>
               </div>
               <p className="text-gray-600 mb-4">

@@ -1,6 +1,6 @@
 import FruitGallery from '@/components/FruitGallery'
 import { useTranslations } from 'next-intl'
-
+import Link from 'next/link'
 export const runtime = 'edge'
 
 export default function Home() {
@@ -200,9 +200,9 @@ export default function Home() {
                     <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
                         {t('finalCta.description')}
                     </p>
-                    <button className="px-8 py-4 bg-purple-600 text-white font-bold rounded-lg hover:bg-purple-700 transition-colors shadow-lg">
+                    <Link href="/" className="px-8 py-4 bg-purple-600 text-white font-bold rounded-lg hover:bg-purple-700 transition-colors shadow-lg">
                         {t('finalCta.buttonText')}
-                    </button>
+                    </Link>
                 </div>
             </section>
         </div>
