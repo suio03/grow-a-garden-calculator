@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gagcalculator.cc/sitemap.xml
-Disallow: /cdn-cgi/
-
-Disallow: /_next/
-
