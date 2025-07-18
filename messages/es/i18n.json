@@ -1,0 +1,458 @@
+{
+    "page": {
+      "seo-title": "Calculadora de Cultivo en el Jardín | La Herramienta de Beneficios Más Precisa",
+      "seo-description": "La calculadora definitiva de Cultivo en el Jardín para un cálculo preciso del valor de los cultivos y las ganancias. Incluye datos en tiempo real, soporte completo de mutaciones y rastreadores en vivo para maximizar tus Sheckles.",
+      "hero": {
+        "title": "Calculadora de Cultivo en el Jardín",
+        "subtitle": "Deja de adivinar. Empieza a obtener ganancias. Obtén valores de cultivos precisos y en tiempo real para maximizar cada cosecha."
+      },
+      "problemSolution": {
+        "title": "¿Cansado de vender por debajo de tu arduo trabajo?",
+        "description": "La economía de Cultivo en el Jardín es compleja. Entre mutaciones, bonificaciones de amigos y pesos fluctuantes, es fácil vender un cultivo de premio por una fracción de su verdadero valor. Nuestra calculadora de Cultivo en el Jardín elimina toda conjetura, asegurando que obtengas el máximo valor que mereces, en todo momento.",
+        "solutionTitle": "La ventaja definitiva para cada granjero."
+      },
+      "features": {
+        "title": "Un conjunto de características inigualable",
+        "description": "Construimos esta calculadora de Cultivo en el Jardín con un objetivo: ser la herramienta más precisa y completa para los jugadores de Cultivo en el Jardín.",
+        "items": [
+          {
+            "icon": "calculator",
+            "title": "Cálculo de valor de precisión",
+            "description": "La calculadora de Cultivo en el Jardín utiliza las fórmulas exactas del juego para el valor base, el peso y las bonificaciones, proporcionándote el precio de venta más preciso posible."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Soporte completo de mutaciones",
+            "description": "Selecciona fácilmente cualquier combinación de mutaciones (Dorada, Electrificada, Húmeda, etc.) y nuestra calculadora aplicará automáticamente el apilamiento multiplicativo correcto."
+          },
+          {
+            "icon": "users",
+            "title": "Impulso de amigo integrado",
+            "description": "Utiliza el sencillo control deslizante para tener en cuenta la bonificación de tus amigos y ver todo el potencial de una cosecha colaborativa incluso antes de vender."
+          },
+          {
+            "icon": "search",
+            "title": "Base de datos de búsqueda instantánea",
+            "description": "Nuestra completa base de datos, rica en imágenes, de todos los cultivos, incluyendo los artículos raros y de evento, te permite encontrar lo que necesitas en segundos."
+          },
+          {
+            "icon": "cloudLightning",
+            "title": "Rastreadores de clima y tiendas en vivo",
+            "description": "Obtén una ventaja estratégica planificando en torno a eventos climáticos en tiempo real y conociendo el inventario actual de la tienda sin estar en el juego."
+          },
+          {
+            "icon": "mobile",
+            "title": "Totalmente adaptable a dispositivos móviles",
+            "description": "Calcula valores sobre la marcha. Todo nuestro sitio está optimizado para una experiencia fluida en tu teléfono o tableta."
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Obtén el valor de tu cultivo en 3 sencillos pasos",
+        "steps": [
+          {
+            "step": "Paso 1",
+            "title": "Ve a la calculadora de Cultivo en el Jardín",
+            "description": "Encuentra rápidamente cualquier cultivo utilizando nuestro menú desplegable con imágenes."
+          },
+          {
+            "step": "Paso 2",
+            "title": "Ingresa los detalles",
+            "description": "Introduce el peso del cultivo y marca todas sus mutaciones."
+          },
+          {
+            "step": "Paso 3",
+            "title": "Ve el valor instantáneo",
+            "description": "Obtén el valor preciso en Sheckles al instante, listo para que realices la venta más rentable."
+          }
+        ]
+      },
+      "socialProof": {
+        "title": "¿Por qué los mejores granjeros confían en la calculadora de Cultivo en el Jardín?",
+        "testimonials": [
+          {
+            "quote": "Esta es la única calculadora en la que confío. El apilamiento de mutaciones es perfecto y los rastreadores en vivo son un cambio de juego para planificar mis cosechas.",
+            "author": "PixelFarmer_Pro",
+            "source": "Jugador Top 100"
+          },
+          {
+            "quote": "Me di cuenta de que estaba perdiendo miles de Sheckles adivinando valores. Esta herramienta se pagó por sí sola en una cosecha. Imprescindible para cualquier jugador serio.",
+            "author": "SheckleHunter",
+            "source": "Miembro de la comunidad GAG"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "questions": [
+          {
+            "q": "¿Cómo garantizan la precisión de esta calculadora de Cultivo en el Jardín?",
+            "a": "Nuestro sistema está directamente sincronizado con los datos y fórmulas oficiales del juego. Tenemos comprobaciones automáticas que se ejecutan después de cada actualización del juego para asegurar que nuestros valores siempre estén 100% alineados con lo que ves en el juego."
+          },
+          {
+            "q": "¿Se incluyen los cultivos y mutaciones específicos de eventos?",
+            "a": "Sí. Nuestra base de datos se actualiza en el momento en que comienza un nuevo evento, incluyendo cualquier nuevo cultivo, equipamiento o mutaciones temporales, por lo que siempre estás preparado."
+          },
+          {
+            "q": "¿Cuál es la mejor manera de usar el rastreador de clima en vivo?",
+            "a": "Usa el rastreador para iniciar sesión justo antes de una tormenta para maximizar tus posibilidades de obtener la mutación 'Electrificada', extremadamente valiosa, en tus cultivos."
+          },
+          {
+            "q": "¿Es la calculadora de Cultivo en el Jardín gratuita?",
+            "a": "Sí, la calculadora de Cultivo en el Jardín es de uso gratuito. No requerimos ningún pago o registro para usar nuestra calculadora."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "¿Listo para maximizar tus ganancias?",
+        "description": "Marca esta página ahora y conviértela en tu herramienta de referencia para cada cosecha. Deja de dejar Sheckles en la mesa.",
+        "buttonText": "Calcula mi primer cultivo"
+      },
+      "crop-section": {
+        "title": "Sección de Cultivos",
+        "details": "Detalles",
+        "search-placeholder": "Busca un cultivo..."
+      },
+      "live-results": {
+        "title": "Resultados en vivo",
+        "crop-name": "Cultivo",
+        "quantity": "Cantidad",
+        "mutations": "Mutaciones",
+        "weight": "Peso"
+      },
+      "quick-controls": {
+        "title": "Controles Rápidos",
+        "weight": "Peso",
+        "friend-boost": "Bonificación de Amigo",
+        "quantity": "Cantidad"
+      },
+      "mutations": {
+        "title": "Mutaciones",
+        "show-advanced": "Mostrar Avanzado",
+        "hide-advanced": "Ocultar Avanzado",
+        "search-placeholder": "Busca una mutación...",
+        "max-all": "Maximizar Todas",
+        "Growth": "Crecimiento",
+        "temperature": "Temperatura",
+        "environmental": "Ambiental",
+        "no-mutations-selected": "No se seleccionaron mutaciones • Haz clic en &ldquo;Mostrar Avanzado&rdquo; para configurar"
+      }
+    },
+    "privacy": {
+      "seo-title": "Política de Privacidad | Calculadora de Cultivo en el Jardín",
+      "seo-description": "Aprende cómo la Calculadora de Cultivo en el Jardín recopila, utiliza y protege tu información cuando usas nuestra herramienta gratuita de cálculo del valor de los cultivos.",
+      "title": "Política de Privacidad",
+      "last-updated": "Última actualización: Julio de 2025",
+      "introduction": {
+        "title": "Introducción",
+        "content": "Esta Política de Privacidad describe cómo la Calculadora de Cultivo en el Jardín recopila, utiliza y protege tu información cuando usas nuestra herramienta gratuita de cálculo del valor de los cultivos. Nos comprometemos a proteger tu privacidad y a ser transparentes sobre nuestras prácticas de datos."
+      },
+      "information-we-collect": {
+        "title": "Información que recopilamos",
+        "personal-data": {
+          "title": "Datos personales",
+          "content": "La Calculadora de Cultivo en el Jardín no recopila, almacena ni procesa ninguna información personal. No requerimos registro, cuentas ni ningún detalle personal para usar nuestra calculadora.",
+          "items": [
+            "No hay direcciones de correo electrónico, nombres o información de contacto",
+            "No hay creación de cuentas ni perfiles de usuario",
+            "No hay datos de identificación personal",
+            "No hay información de pago (nuestra herramienta es completamente gratuita)"
+          ]
+        },
+        "service-data": {
+          "title": "Datos de uso de la calculadora",
+          "content": "No almacenamos ninguno de los datos que introduces en nuestra calculadora. Todos los cálculos se realizan localmente en tu navegador.",
+          "items": [
+            "Las selecciones de cultivos y las entradas de peso no se guardan",
+            "Las selecciones de mutaciones no se almacenan",
+            "Los resultados de los cálculos no se registran",
+            "Todos los datos permanecen solo en la sesión de tu navegador"
+          ]
+        },
+        "technical-data": {
+          "title": "Datos técnicos",
+          "content": "Usamos Google Analytics para entender cómo se usa nuestra herramienta y para mejorar la experiencia del usuario.",
+          "items": [
+            "Vistas de página e interacciones del usuario",
+            "Tipo de dispositivo e información del navegador",
+            "Ubicación geográfica (nivel de país/región)",
+            "Tiempo dedicado al sitio y características populares"
+          ]
+        }
+      },
+      "data-usage": {
+        "title": "Cómo usamos tu información",
+        "service-provision": {
+          "title": "Provisión del servicio",
+          "content": "Usamos los limitados datos técnicos que recopilamos para:",
+          "items": [
+            "Asegurar que nuestra calculadora funcione correctamente en diferentes dispositivos",
+            "Optimizar los tiempos de carga y el rendimiento",
+            "Identificar y solucionar problemas técnicos",
+            "Proporcionar cálculos precisos del valor de los cultivos"
+          ]
+        },
+        "service-improvement": {
+          "title": "Mejora del servicio",
+          "content": "Los datos de análisis nos ayudan a mejorar la Calculadora de Cultivo en el Jardín al:",
+          "items": [
+            "Comprender qué características son más populares",
+            "Identificar áreas de mejora",
+            "Probar nuevas características y diseños",
+            "Asegurar la compatibilidad móvil y la capacidad de respuesta"
+          ]
+        }
+      },
+      "data-retention": {
+        "title": "Retención de datos",
+        "content": "Dado que no almacenamos tus entradas de la calculadora, no hay datos personales que retener. Los datos de Google Analytics se conservan de acuerdo con las políticas estándar de Google:",
+        "items": [
+          "Los datos de análisis se eliminan automáticamente después de 26 meses",
+          "Puedes optar por no participar en el seguimiento de análisis usando la configuración del navegador",
+          "Nunca almacenamos datos personales de cálculo",
+          "Todas las entradas de la calculadora se procesan localmente en tu navegador"
+        ]
+      },
+      "data-sharing": {
+        "title": "Compartir datos",
+        "content": "No vendemos, comercializamos ni compartimos tu información con terceros, excepto:",
+        "items": [
+          "Google Analytics procesa estadísticas de uso anónimas",
+          "No se comparte información personal con nadie",
+          "No se transmiten datos de cálculo a servicios externos",
+          "Ninguna asociación de marketing o publicidad implica datos de usuario"
+        ]
+      },
+      "data-protection-rights": {
+        "title": "Tus derechos de protección de datos",
+        "content": "Dado que no recopilamos datos personales, la mayoría de las preocupaciones sobre la protección de datos no se aplican. Sin embargo, tienes estos derechos:",
+        "items": [
+          "Derecho a optar por no participar en el seguimiento de Google Analytics",
+          "Derecho a usar la calculadora sin ninguna recopilación de datos",
+          "Derecho a borrar los datos de tu navegador en cualquier momento",
+          "Derecho a usar bloqueadores de anuncios o herramientas de privacidad"
+        ]
+      },
+      "content-generation-privacy": {
+        "title": "Privacidad de la calculadora",
+        "content": "Tus cálculos de cultivos son completamente privados:",
+        "items": [
+          "Todos los cálculos ocurren localmente en tu navegador",
+          "No se envían datos de cultivos a nuestros servidores",
+          "No se almacena historial de cálculo",
+          "Tus estrategias de cultivo permanecen completamente privadas"
+        ]
+      },
+      "childrens-privacy": {
+        "title": "Privacidad de los niños",
+        "content": "Nuestra calculadora es adecuada para todas las edades. Como no recopilamos información personal, no hay preocupaciones especiales de privacidad para los niños que usan nuestra herramienta. Los padres pueden permitir de forma segura que los niños usen la calculadora sin ninguna preocupación por la recopilación de datos."
+      },
+      "security-measures": {
+        "title": "Medidas de seguridad",
+        "content": "Implementamos medidas de seguridad apropiadas para proteger nuestro servicio:",
+        "items": [
+          "Cifrado HTTPS para todas las conexiones",
+          "Actualizaciones y monitoreo de seguridad regulares",
+          "No almacenamiento de datos sensibles del usuario",
+          "Infraestructura de alojamiento segura"
+        ]
+      },
+      "data-protection-practices": {
+        "title": "Prácticas de protección de datos",
+        "content": "Nuestro enfoque de privacidad primero incluye:",
+        "items": [
+          "Recopilación mínima de datos por diseño",
+          "No rastreo ni cookies innecesarios",
+          "Procesamiento local de todos los cálculos",
+          "Prácticas de privacidad transparentes"
+        ]
+      },
+      "international-data-transfers": {
+        "title": "Transferencias internacionales de datos",
+        "content": "La única transferencia de datos involucra a Google Analytics:",
+        "items": [
+          "Los datos de análisis anónimos pueden ser procesados globalmente por Google",
+          "Ninguna información personal cruza fronteras internacionales",
+          "Google Analytics cumple con las leyes internacionales de protección de datos",
+          "Puedes optar por no participar en el análisis en cualquier momento"
+        ]
+      },
+      "policy-updates": {
+        "title": "Actualizaciones de la política",
+        "content": "Podemos actualizar esta política de privacidad ocasionalmente:",
+        "items": [
+          "Las actualizaciones se publicarán en esta página con una nueva fecha",
+          "Los cambios significativos se destacarán claramente",
+          "El uso continuo de la calculadora indica la aceptación",
+          "Siempre mantendremos nuestro enfoque de privacidad primero"
+        ]
+      },
+      "your-rights": {
+        "title": "Ejercicio de tus derechos",
+        "content": "Para ejercer tus derechos de privacidad:",
+        "items": [
+          "Usa la configuración de privacidad del navegador para controlar el análisis",
+          "Borra los datos de tu navegador para eliminar todos los rastros",
+          "Usa la navegación privada/incógnito para máxima privacidad",
+          "Contáctanos a través de la calculadora si tienes preocupaciones de privacidad"
+        ]
+      },
+      "contact-information": {
+        "title": "Información de contacto",
+        "content": "Si tienes preguntas sobre esta política de privacidad o nuestras prácticas de datos, puedes comunicarte con nosotros a través de las opciones de contacto disponibles en el sitio web de la Calculadora de Cultivo en el Jardín."
+      }
+    },
+    "tos": {
+      "seo-title": "Términos de servicio | Calculadora de Cultivo en el Jardín",
+      "seo-description": "Aprende cómo la Calculadora de Cultivo en el Jardín recopila, utiliza y protege tu información cuando usas nuestra herramienta gratuita de cálculo del valor de los cultivos.",
+      "title": "Términos de servicio",
+      "last-updated": "Última actualización: Julio de 2025",
+      "acceptance": {
+        "title": "Aceptación de los términos",
+        "content": "Al acceder y usar la Calculadora de Cultivo en el Jardín, aceptas y estás de acuerdo en estar sujeto a los términos y disposiciones de este acuerdo. Si no estás de acuerdo en acatar lo anterior, por favor no uses este servicio."
+      },
+      "description": {
+        "title": "Descripción del servicio",
+        "content": "La Calculadora de Cultivo en el Jardín es una herramienta gratuita que ayuda a los jugadores a calcular los valores de los cultivos y optimizar sus estrategias de cultivo. Nuestro servicio incluye:",
+        "features": [
+          "Cálculos precisos del valor de los cultivos basados en el peso y las mutaciones",
+          "Cálculo en tiempo real de bonificaciones de amigos y multiplicadores",
+          "Base de datos completa de cultivos y mutaciones",
+          "Diseño adaptable a dispositivos móviles para cálculos sobre la marcha",
+          "Acceso gratuito a todas las funciones de cálculo"
+        ]
+      },
+      "accounts": {
+        "title": "Cuentas de usuario",
+        "content": "La Calculadora de Cultivo en el Jardín no requiere cuentas de usuario ni registro:",
+        "requirements": [
+          "No se requiere registro ni suscripción",
+          "No se necesita información personal para usar la calculadora",
+          "Todas las funciones están disponibles inmediatamente para todos los usuarios",
+          "No se requieren gestión de cuentas ni requisitos de contraseña"
+        ]
+      },
+      "fees": {
+        "title": "Tarifas y pagos",
+        "payment-terms": {
+          "title": "Términos de pago",
+          "items": [
+            "La Calculadora de Cultivo en el Jardín es completamente gratuita",
+            "No hay cuotas de suscripción, funciones premium ni costos ocultos",
+            "Nunca se recopila información de pago",
+            "Todas las funciones de cálculo están disponibles sin cargo"
+          ]
+        },
+        "refund-policy": {
+          "title": "Política de reembolso",
+          "items": [
+            "Dado que nuestro servicio es gratuito, no se aplican reembolsos",
+            "Nunca se realizan cargos por usar la calculadora",
+            "No existen funciones premium ni actualizaciones de pago",
+            "Todos los usuarios tienen acceso al conjunto completo de funciones"
+          ]
+        }
+      },
+      "acceptable-use": {
+        "title": "Uso aceptable",
+        "content": "Aceptas usar la Calculadora de Cultivo en el Jardín de manera responsable y no:",
+        "restrictions": [
+          "Usar el servicio para cualquier propósito ilegal o no autorizado",
+          "Intentar interferir o interrumpir el servicio",
+          "Usar herramientas automatizadas para sobrecargar nuestros servidores",
+          "Aplicar ingeniería inversa o intentar extraer nuestras fórmulas de cálculo",
+          "Tergiversar la fuente o la precisión de los resultados del cálculo"
+        ]
+      },
+      "intellectual-property": {
+        "title": "Propiedad intelectual",
+        "service-ownership": {
+          "title": "Propiedad del servicio",
+          "items": [
+            "El diseño y el código de la Calculadora de Cultivo en el Jardín son de nuestra propiedad",
+            "Los algoritmos y fórmulas de cálculo son nuestra propiedad intelectual",
+            "El diseño del sitio web, el diseño y la interfaz de usuario están protegidos",
+            "Nuestra marca y logotipo son de nuestra propiedad"
+          ]
+        },
+        "user-rights": {
+          "title": "Tus derechos",
+          "items": [
+            "Puedes usar la calculadora para fines de juego personal",
+            "Puedes compartir los resultados del cálculo con otros jugadores",
+            "Puedes hacer referencia a nuestra herramienta en discusiones de juego",
+            "No puedes copiar ni reproducir nuestro código o diseño"
+          ]
+        }
+      },
+      "content-guidelines": {
+        "title": "Directrices de contenido",
+        "content": "Al usar nuestra calculadora, por favor:",
+        "requirements": [
+          "Usa datos precisos de peso y mutación para obtener resultados significativos",
+          "Entiende que los cálculos son estimaciones basadas en la mecánica actual del juego",
+          "Verifica los cálculos importantes antes de tomar decisiones significativas en el juego",
+          "Reporta cualquier error de cálculo o error que descubras"
+        ]
+      },
+      "limitations": {
+        "title": "Limitaciones del servicio",
+        "content": "Por favor, comprende estas limitaciones de nuestro servicio:",
+        "items": [
+          "Los cálculos se basan en la mecánica actual del juego y pueden cambiar",
+          "No podemos garantizar el 100% de precisión debido a posibles actualizaciones del juego",
+          "El servicio puede estar ocasionalmente no disponible por mantenimiento",
+          "Se requiere conexión a Internet para acceder a la calculadora"
+        ]
+      },
+      "privacy": {
+        "title": "Privacidad",
+        "content": "Tu privacidad es importante para nosotros:",
+        "items": [
+          "No almacenamos tus entradas de cálculo",
+          "No se requiere ni se recopila información personal",
+          "Solo se utilizan análisis anónimos para mejorar el servicio",
+          "Consulta nuestra Política de privacidad para obtener detalles completos"
+        ]
+      },
+      "termination": {
+        "title": "Finalización",
+        "content": "Podemos restringir el acceso a nuestro servicio si:",
+        "reasons": [
+          "Violas estos términos de servicio",
+          "Intentas abusar o sobrecargar nuestros sistemas",
+          "Participas en actividades que perjudican a otros usuarios",
+          "Los requisitos legales requieren la restricción del acceso"
+        ]
+      },
+      "updates": {
+        "title": "Actualizaciones del servicio",
+        "content": "Podemos actualizar nuestro servicio y términos:",
+        "items": [
+          "Las fórmulas de cálculo pueden actualizarse para que coincidan con los cambios del juego",
+          "Se pueden agregar nuevas funciones para mejorar la experiencia del usuario",
+          "Los términos de servicio pueden actualizarse según sea necesario",
+          "El uso continuo indica la aceptación de los términos actualizados"
+        ]
+      },
+      "liability": {
+        "title": "Limitación de responsabilidad",
+        "content": "Nuestra responsabilidad se limita de la siguiente manera:",
+        "items": [
+          "La calculadora se proporciona 'tal cual' sin garantías",
+          "No somos responsables de ninguna pérdida en el juego basada en nuestros cálculos",
+          "No garantizamos la disponibilidad continua del servicio",
+          "Los usuarios son responsables de verificar la precisión del cálculo"
+        ]
+      },
+      "contact": {
+        "title": "Información de contacto",
+        "content": "Si tienes preguntas sobre estos términos, puedes comunicarte con nosotros a través de las opciones de contacto disponibles en el sitio web de la Calculadora de Cultivo en el Jardín."
+      }
+    },
+    "footer": {
+      "privacy-policy": "Política de Privacidad",
+      "terms-of-service": "Términos de Servicio",
+      "description": "La herramienta más precisa y completa para los jugadores de Cultivo en el Jardín. Calcula los valores precisos de los cultivos con soporte completo de mutaciones."
+    }
+  }

@@ -1,0 +1,458 @@
+{
+    "page": {
+      "seo-title": "Calculateur Grow a Garden | L'outil de profit le plus précis",
+      "seo-description": "Le calculateur Grow a Garden définitif pour un calcul précis de la valeur des récoltes et des profits. Comprend des données en temps réel, une prise en charge complète des mutations et des trackers en direct pour maximiser vos Shekels.",
+      "hero": {
+        "title": "Calculateur Grow a Garden",
+        "subtitle": "Arrêtez de deviner. Commencez à profiter. Obtenez des valeurs de récolte précises en temps réel pour maximiser chaque récolte."
+      },
+      "problemSolution": {
+        "title": "Fatigué de sous-vendre le fruit de votre travail ?",
+        "description": "L'économie de Grow a Garden est complexe. Entre les mutations, les bonus d'amis et les poids fluctuants, il est facile de vendre une récolte de prix pour une fraction de sa valeur réelle. Notre calculateur Grow a Garden supprime tous les devinettes, vous assurant d'obtenir la valeur maximale que vous méritez, à chaque fois.",
+        "solutionTitle": "L'avantage ultime pour chaque fermier."
+      },
+      "features": {
+        "title": "Un ensemble de fonctionnalités inégalé",
+        "description": "Nous avons créé ce calculateur Grow a Garden avec un seul objectif : être l'outil le plus précis et le plus complet pour les joueurs de Grow a Garden.",
+        "items": [
+          {
+            "icon": "calculator",
+            "title": "Calcul précis de la valeur",
+            "description": "Le calculateur Grow a Garden utilise les formules exactes du jeu pour la valeur de base, le poids et les bonus, vous fournissant le prix de vente le plus précis possible."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Prise en charge complète des mutations",
+            "description": "Sélectionnez facilement n'importe quelle combinaison de mutations (Doré, Choqué, Mouillé, etc.) et notre calculateur appliquera automatiquement l'empilement multiplicatif correct."
+          },
+          {
+            "icon": "users",
+            "title": "Bonus d'ami intégré",
+            "description": "Utilisez le simple curseur pour prendre en compte votre bonus d'ami et voir le plein potentiel d'une récolte collaborative avant même de vendre."
+          },
+          {
+            "icon": "search",
+            "title": "Base de données de recherche instantanée",
+            "description": "Notre base de données complète, riche en images, de toutes les récoltes, y compris les objets rares et d'événements, vous permet de trouver ce dont vous avez besoin en quelques secondes."
+          },
+          {
+            "icon": "cloudLightning",
+            "title": "Suivi en direct de la météo et de la boutique",
+            "description": "Obtenez un avantage stratégique en planifiant autour des événements météorologiques en temps réel et en connaissant l'inventaire actuel de la boutique sans être en jeu."
+          },
+          {
+            "icon": "mobile",
+            "title": "Entièrement adapté aux mobiles",
+            "description": "Calculez les valeurs en déplacement. L'ensemble de notre site est optimisé pour une expérience transparente sur votre téléphone ou votre tablette."
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Obtenez la valeur de votre récolte en 3 étapes simples",
+        "steps": [
+          {
+            "step": "Étape 1",
+            "title": "Accédez au calculateur Grow a Garden",
+            "description": "Trouvez rapidement n'importe quelle récolte en utilisant notre menu déroulant avec images."
+          },
+          {
+            "step": "Étape 2",
+            "title": "Entrez les détails",
+            "description": "Entrez le poids de la récolte et cochez toutes ses mutations."
+          },
+          {
+            "step": "Étape 3",
+            "title": "Voir la valeur instantanée",
+            "description": "Obtenez la valeur précise en Shekels instantanément, prête pour que vous puissiez faire la vente la plus rentable."
+          }
+        ]
+      },
+      "socialProof": {
+        "title": "Pourquoi les meilleurs fermiers font confiance au calculateur Grow a Garden",
+        "testimonials": [
+          {
+            "quote": "C'est le seul calculateur auquel je fais confiance. L'empilement des mutations est parfait et les trackers en direct changent la donne pour la planification de mes récoltes.",
+            "author": "PixelFarmer_Pro",
+            "source": "Top 100 Joueur"
+          },
+          {
+            "quote": "J'ai réalisé que je perdais des milliers de Shekels en devinant les valeurs. Cet outil s'est remboursé en une seule récolte. Un incontournable absolu pour tout joueur sérieux.",
+            "author": "SheckleHunter",
+            "source": "Membre de la communauté GAG"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Foire aux questions",
+        "questions": [
+          {
+            "q": "Comment garantissez-vous l'exactitude de ce calculateur Grow a Garden ?",
+            "a": "Notre système est directement synchronisé avec les données et les formules officielles du jeu. Nous avons des contrôles automatisés qui s'exécutent après chaque mise à jour du jeu pour nous assurer que nos valeurs sont toujours alignées à 100 % avec ce que vous voyez en jeu."
+          },
+          {
+            "q": "Les récoltes et mutations spécifiques aux événements sont-elles incluses ?",
+            "a": "Oui. Notre base de données est mise à jour dès le début d'un nouvel événement, y compris toutes les nouvelles récoltes, équipements ou mutations temporaires, afin que vous soyez toujours prêt."
+          },
+          {
+            "q": "Quelle est la meilleure façon d'utiliser le tracker météo en direct ?",
+            "a": "Utilisez le tracker pour vous connecter juste avant un orage afin de maximiser vos chances d'obtenir la mutation 'Choqué', extrêmement précieuse, sur vos récoltes."
+          },
+          {
+            "q": "Le calculateur Grow a Garden est-il gratuit ?",
+            "a": "Oui, le calculateur Grow a Garden est gratuit. Nous n'exigeons aucun paiement ni inscription pour utiliser notre calculateur."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Prêt à maximiser vos profits ?",
+        "description": "Marquez cette page maintenant et faites-en votre outil incontournable pour chaque récolte. Arrêtez de laisser des Shekels sur la table.",
+        "buttonText": "Calculer ma première récolte"
+      },
+      "crop-section": {
+        "title": "Section Récolte",
+        "details": "Détails",
+        "search-placeholder": "Rechercher une récolte..."
+      },
+      "live-results": {
+        "title": "Résultats en direct",
+        "crop-name": "Récolte",
+        "quantity": "Quantité",
+        "mutations": "Mutations",
+        "weight": "Poids"
+      },
+      "quick-controls": {
+        "title": "Contrôles rapides",
+        "weight": "Poids",
+        "friend-boost": "Bonus d'ami",
+        "quantity": "Quantité"
+      },
+      "mutations": {
+        "title": "Mutations",
+        "show-advanced": "Afficher avancé",
+        "hide-advanced": "Masquer avancé",
+        "search-placeholder": "Rechercher une mutation...",
+        "max-all": "Tout maximiser",
+        "Growth": "Croissance",
+        "temperature": "Température",
+        "environmental": "Environnemental",
+        "no-mutations-selected": "Aucune mutation sélectionnée • Cliquez sur « Afficher avancé » pour configurer"
+      }
+    },
+    "privacy": {
+      "seo-title": "Politique de confidentialité | Calculateur Grow a Garden",
+      "seo-description": "Découvrez comment le calculateur Grow a Garden collecte, utilise et protège vos informations lorsque vous utilisez notre outil gratuit de calcul de la valeur des récoltes.",
+      "title": "Politique de confidentialité",
+      "last-updated": "Dernière mise à jour : Juillet 2025",
+      "introduction": {
+        "title": "Introduction",
+        "content": "Cette politique de confidentialité décrit comment le calculateur Grow a Garden collecte, utilise et protège vos informations lorsque vous utilisez notre outil gratuit de calcul de la valeur des récoltes. Nous nous engageons à protéger votre vie privée et à être transparents sur nos pratiques en matière de données."
+      },
+      "information-we-collect": {
+        "title": "Informations que nous collectons",
+        "personal-data": {
+          "title": "Données personnelles",
+          "content": "Le calculateur Grow a Garden ne collecte, ne stocke ni ne traite aucune information personnelle. Nous n'exigeons pas d'inscription, de comptes ou de coordonnées personnelles pour utiliser notre calculateur.",
+          "items": [
+            "Aucune adresse e-mail, nom ou coordonnée",
+            "Aucune création de compte ni profil d'utilisateur",
+            "Aucune donnée d'identification personnelle",
+            "Aucune information de paiement (notre outil est entièrement gratuit)"
+          ]
+        },
+        "service-data": {
+          "title": "Données d'utilisation du calculateur",
+          "content": "Nous ne stockons aucune des données que vous entrez dans notre calculateur. Tous les calculs sont effectués localement dans votre navigateur.",
+          "items": [
+            "Les sélections de récoltes et les entrées de poids ne sont pas enregistrées",
+            "Les sélections de mutation ne sont pas stockées",
+            "Les résultats des calculs ne sont pas enregistrés",
+            "Toutes les données restent uniquement dans la session de votre navigateur"
+          ]
+        },
+        "technical-data": {
+          "title": "Données techniques",
+          "content": "Nous utilisons Google Analytics pour comprendre comment notre outil est utilisé et pour améliorer l'expérience utilisateur.",
+          "items": [
+            "Pages vues et interactions de l'utilisateur",
+            "Type d'appareil et informations sur le navigateur",
+            "Localisation géographique (niveau pays/région)",
+            "Temps passé sur le site et fonctionnalités populaires"
+          ]
+        }
+      },
+      "data-usage": {
+        "title": "Comment nous utilisons vos informations",
+        "service-provision": {
+          "title": "Fourniture de service",
+          "content": "Nous utilisons les données techniques limitées que nous collectons pour :",
+          "items": [
+            "Garantir que notre calculateur fonctionne correctement sur différents appareils",
+            "Optimiser les temps de chargement et les performances",
+            "Identifier et résoudre les problèmes techniques",
+            "Fournir des calculs précis de la valeur des récoltes"
+          ]
+        },
+        "service-improvement": {
+          "title": "Amélioration du service",
+          "content": "Les données d'analyse nous aident à améliorer le calculateur Grow a Garden en :",
+          "items": [
+            "Comprenant quelles fonctionnalités sont les plus populaires",
+            "Identifiant les points à améliorer",
+            "Testant de nouvelles fonctionnalités et mises en page",
+            "Assurant la compatibilité mobile et la réactivité"
+          ]
+        }
+      },
+      "data-retention": {
+        "title": "Conservation des données",
+        "content": "Étant donné que nous ne stockons pas vos entrées de calculateur, il n'y a aucune donnée personnelle à conserver. Les données Google Analytics sont conservées conformément aux politiques standard de Google :",
+        "items": [
+          "Les données analytiques sont automatiquement supprimées après 26 mois",
+          "Vous pouvez désactiver le suivi analytique à l'aide des paramètres du navigateur",
+          "Aucune donnée de calcul personnelle n'est jamais stockée par nous",
+          "Toutes les entrées du calculateur sont traitées localement dans votre navigateur"
+        ]
+      },
+      "data-sharing": {
+        "title": "Partage de données",
+        "content": "Nous ne vendons, n'échangeons ni ne partageons vos informations avec des tiers, sauf :",
+        "items": [
+          "Google Analytics traite des statistiques d'utilisation anonymes",
+          "Aucune information personnelle n'est partagée avec qui que ce soit",
+          "Aucune donnée de calcul n'est transmise à des services externes",
+          "Aucun partenariat marketing ou publicitaire n'implique de données utilisateur"
+        ]
+      },
+      "data-protection-rights": {
+        "title": "Vos droits en matière de protection des données",
+        "content": "Étant donné que nous ne collectons pas de données personnelles, la plupart des préoccupations relatives à la protection des données ne s'appliquent pas. Cependant, vous avez ces droits :",
+        "items": [
+          "Droit de désactiver le suivi Google Analytics",
+          "Droit d'utiliser le calculateur sans aucune collecte de données",
+          "Droit de vider les données de votre navigateur à tout moment",
+          "Droit d'utiliser des bloqueurs de publicité ou des outils de confidentialité"
+        ]
+      },
+      "content-generation-privacy": {
+        "title": "Confidentialité du calculateur",
+        "content": "Vos calculs de récoltes sont totalement privés :",
+        "items": [
+          "Tous les calculs se déroulent localement dans votre navigateur",
+          "Aucune donnée de récolte n'est envoyée à nos serveurs",
+          "Aucun historique de calcul n'est stocké",
+          "Vos stratégies agricoles restent totalement privées"
+        ]
+      },
+      "childrens-privacy": {
+        "title": "Confidentialité des enfants",
+        "content": "Notre calculateur convient à tous les âges. Étant donné que nous ne collectons pas d'informations personnelles, il n'y a pas de préoccupations particulières en matière de confidentialité pour les enfants utilisant notre outil. Les parents peuvent autoriser en toute sécurité les enfants à utiliser le calculateur sans aucun souci de collecte de données."
+      },
+      "security-measures": {
+        "title": "Mesures de sécurité",
+        "content": "Nous mettons en œuvre des mesures de sécurité appropriées pour protéger notre service :",
+        "items": [
+          "Cryptage HTTPS pour toutes les connexions",
+          "Mises à jour et surveillance de sécurité régulières",
+          "Aucun stockage de données utilisateur sensibles",
+          "Infrastructure d'hébergement sécurisée"
+        ]
+      },
+      "data-protection-practices": {
+        "title": "Pratiques de protection des données",
+        "content": "Notre approche axée sur la confidentialité comprend :",
+        "items": [
+          "Collecte de données minimale par conception",
+          "Aucun suivi ou cookie inutile",
+          "Traitement local de tous les calculs",
+          "Pratiques de confidentialité transparentes"
+        ]
+      },
+      "international-data-transfers": {
+        "title": "Transferts de données internationaux",
+        "content": "Le seul transfert de données implique Google Analytics :",
+        "items": [
+          "Les données analytiques anonymes peuvent être traitées globalement par Google",
+          "Aucune information personnelle ne traverse les frontières internationales",
+          "Google Analytics se conforme aux lois internationales sur la protection des données",
+          "Vous pouvez désactiver l'analyse à tout moment"
+        ]
+      },
+      "policy-updates": {
+        "title": "Mises à jour de la politique",
+        "content": "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre :",
+        "items": [
+          "Les mises à jour seront publiées sur cette page avec une nouvelle date",
+          "Les changements importants seront clairement mis en évidence",
+          "L'utilisation continue du calculateur indique l'acceptation",
+          "Nous maintiendrons toujours notre approche axée sur la confidentialité"
+        ]
+      },
+      "your-rights": {
+        "title": "Exercer vos droits",
+        "content": "Pour exercer vos droits en matière de confidentialité :",
+        "items": [
+          "Utilisez les paramètres de confidentialité du navigateur pour contrôler l'analyse",
+          "Videz les données de votre navigateur pour supprimer toutes les traces",
+          "Utilisez la navigation privée/incognito pour une confidentialité maximale",
+          "Contactez-nous via le calculateur si vous avez des problèmes de confidentialité"
+        ]
+      },
+      "contact-information": {
+        "title": "Coordonnées",
+        "content": "Si vous avez des questions sur cette politique de confidentialité ou nos pratiques en matière de données, vous pouvez nous joindre via les options de contact disponibles sur le site Web du calculateur Grow a Garden."
+      }
+    },
+    "tos": {
+      "seo-title": "Conditions d'utilisation | Calculateur Grow a Garden",
+      "seo-description": "Découvrez comment le calculateur Grow a Garden collecte, utilise et protège vos informations lorsque vous utilisez notre outil gratuit de calcul de la valeur des récoltes.",
+      "title": "Conditions d'utilisation",
+      "last-updated": "Dernière mise à jour : Juillet 2025",
+      "acceptance": {
+        "title": "Acceptation des conditions",
+        "content": "En accédant et en utilisant le calculateur Grow a Garden, vous acceptez et acceptez d'être lié par les conditions et les dispositions du présent accord. Si vous n'acceptez pas de respecter ce qui précède, veuillez ne pas utiliser ce service."
+      },
+      "description": {
+        "title": "Description du service",
+        "content": "Le calculateur Grow a Garden est un outil gratuit qui aide les joueurs à calculer la valeur des récoltes et à optimiser leurs stratégies agricoles. Notre service comprend :",
+        "features": [
+          "Calculs précis de la valeur des récoltes en fonction du poids et des mutations",
+          "Calcul en temps réel des bonus et des multiplicateurs d'amis",
+          "Base de données complète des récoltes et des mutations",
+          "Conception réactive aux mobiles pour les calculs en déplacement",
+          "Accès gratuit à toutes les fonctionnalités de calcul"
+        ]
+      },
+      "accounts": {
+        "title": "Comptes d'utilisateurs",
+        "content": "Le calculateur Grow a Garden ne nécessite pas de comptes utilisateurs ni d'inscription :",
+        "requirements": [
+          "Aucune inscription ou inscription requise",
+          "Aucune information personnelle requise pour utiliser le calculateur",
+          "Toutes les fonctionnalités sont immédiatement disponibles pour tous les utilisateurs",
+          "Aucune exigence de gestion de compte ni de mot de passe"
+        ]
+      },
+      "fees": {
+        "title": "Frais et paiements",
+        "payment-terms": {
+          "title": "Conditions de paiement",
+          "items": [
+            "Le calculateur Grow a Garden est entièrement gratuit",
+            "Aucuns frais d'abonnement, fonctionnalités premium ou coûts cachés",
+            "Aucune information de paiement n'est jamais collectée",
+            "Toutes les fonctionnalités de calcul sont disponibles gratuitement"
+          ]
+        },
+        "refund-policy": {
+          "title": "Politique de remboursement",
+          "items": [
+            "Étant donné que notre service est gratuit, aucun remboursement n'est applicable",
+            "Aucuns frais ne sont jamais facturés pour l'utilisation du calculateur",
+            "Aucune fonctionnalité premium ni mise à niveau payante n'existe",
+            "Tous les utilisateurs ont accès à l'ensemble des fonctionnalités"
+          ]
+        }
+      },
+      "acceptable-use": {
+        "title": "Utilisation acceptable",
+        "content": "Vous acceptez d'utiliser le calculateur Grow a Garden de manière responsable et de ne pas :",
+        "restrictions": [
+          "Utiliser le service à des fins illégales ou non autorisées",
+          "Tenter d'interférer avec ou de perturber le service",
+          "Utiliser des outils automatisés pour surcharger nos serveurs",
+          "Faire de l'ingénierie inverse ou tenter d'extraire nos formules de calcul",
+          "Fausse déclaration de la source ou de l'exactitude des résultats du calcul"
+        ]
+      },
+      "intellectual-property": {
+        "title": "Propriété intellectuelle",
+        "service-ownership": {
+          "title": "Propriété du service",
+          "items": [
+            "La conception et le code du calculateur Grow a Garden sont notre propriété",
+            "Les algorithmes et formules de calcul sont notre propriété intellectuelle",
+            "La conception du site Web, la mise en page et l'interface utilisateur sont protégées",
+            "Notre image de marque et notre logo sont notre propriété"
+          ]
+        },
+        "user-rights": {
+          "title": "Vos droits",
+          "items": [
+            "Vous pouvez utiliser le calculateur à des fins de jeu personnelles",
+            "Vous pouvez partager les résultats des calculs avec d'autres joueurs",
+            "Vous pouvez faire référence à notre outil dans les discussions sur les jeux",
+            "Vous ne pouvez pas copier ou reproduire notre code ou notre conception"
+          ]
+        }
+      },
+      "content-guidelines": {
+        "title": "Consignes relatives au contenu",
+        "content": "Lors de l'utilisation de notre calculateur, veuillez :",
+        "requirements": [
+          "Utiliser des données précises sur le poids et les mutations pour des résultats significatifs",
+          "Comprendre que les calculs sont des estimations basées sur la mécanique actuelle du jeu",
+          "Vérifier les calculs importants avant de prendre des décisions importantes dans le jeu",
+          "Signaler toute erreur de calcul ou tout bogue que vous découvrez"
+        ]
+      },
+      "limitations": {
+        "title": "Limitations de service",
+        "content": "Veuillez comprendre ces limites de notre service :",
+        "items": [
+          "Les calculs sont basés sur la mécanique actuelle du jeu et peuvent changer",
+          "Nous ne pouvons pas garantir une précision à 100 % en raison des potentielles mises à jour du jeu",
+          "Le service peut occasionnellement être indisponible pour la maintenance",
+          "Une connexion Internet est requise pour accéder au calculateur"
+        ]
+      },
+      "privacy": {
+        "title": "Confidentialité",
+        "content": "Votre confidentialité est importante pour nous :",
+        "items": [
+          "Nous ne stockons pas vos entrées de calcul",
+          "Aucune information personnelle n'est requise ou collectée",
+          "Seules les analyses anonymes sont utilisées pour améliorer le service",
+          "Consultez notre politique de confidentialité pour tous les détails"
+        ]
+      },
+      "termination": {
+        "title": "Résiliation",
+        "content": "Nous pouvons restreindre l'accès à notre service si :",
+        "reasons": [
+          "Vous violez ces conditions d'utilisation",
+          "Vous tentez d'abuser ou de surcharger nos systèmes",
+          "Vous vous engagez dans des activités qui nuisent aux autres utilisateurs",
+          "Des exigences légales nécessitent une restriction d'accès"
+        ]
+      },
+      "updates": {
+        "title": "Mises à jour du service",
+        "content": "Nous pouvons mettre à jour notre service et nos conditions :",
+        "items": [
+          "Les formules de calcul peuvent être mises à jour pour correspondre aux changements de jeu",
+          "De nouvelles fonctionnalités peuvent être ajoutées pour améliorer l'expérience utilisateur",
+          "Les conditions d'utilisation peuvent être mises à jour au besoin",
+          "L'utilisation continue indique l'acceptation des conditions mises à jour"
+        ]
+      },
+      "liability": {
+        "title": "Limitation de responsabilité",
+        "content": "Notre responsabilité est limitée comme suit :",
+        "items": [
+          "Le calculateur est fourni « tel quel » sans garanties",
+          "Nous ne sommes pas responsables des pertes en jeu basées sur nos calculs",
+          "Nous ne garantissons pas la disponibilité continue du service",
+          "Les utilisateurs sont responsables de la vérification de l'exactitude des calculs"
+        ]
+      },
+      "contact": {
+        "title": "Coordonnées",
+        "content": "Si vous avez des questions concernant ces conditions, vous pouvez nous joindre via les options de contact disponibles sur le site Web du calculateur Grow a Garden."
+      }
+    },
+    "footer": {
+      "privacy-policy": "Politique de confidentialité",
+      "terms-of-service": "Conditions d'utilisation",
+      "description": "L'outil le plus précis et complet pour les joueurs de Grow a Garden. Calculez les valeurs précises des récoltes avec une prise en charge complète des mutations."
+    }
+  }

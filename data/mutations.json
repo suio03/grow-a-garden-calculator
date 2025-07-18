@@ -1,0 +1,53 @@
+{
+  "growth": [
+    { "name": "Default", "multiplier": 1, "isDefault": true },
+    { "name": "Golden", "multiplier": 20 },
+    { "name": "Rainbow", "multiplier": 50 }
+  ],
+  "temperature": [
+    { "name": "Default", "multiplier": 1, "isDefault": true },
+    { "name": "Wet", "multiplier": 2 },
+    { "name": "Chilled", "multiplier": 2 },
+    { "name": "Drenched", "multiplier": 5 },
+    { "name": "Frozen", "multiplier": 10 }
+  ],
+  "environmental": [
+    { "name": "Choc", "multiplier": 2 },
+    { "name": "Moonlit", "multiplier": 2 },
+    { "name": "Windstruck", "multiplier": 2 },
+    { "name": "Pollinated", "multiplier": 3 },
+    { "name": "Sandy", "multiplier": 3 },
+    { "name": "Bloodlit", "multiplier": 4 },
+    { "name": "Burnt", "multiplier": 4 },
+    { "name": "Verdant", "multiplier": 4 },
+    { "name": "Wiltproof", "multiplier": 4 },
+    { "name": "Plasma", "multiplier": 5 },
+    { "name": "HoneyGlazed", "multiplier": 5 },
+    { "name": "Heavenly", "multiplier": 5 },
+    { "name": "Twisted", "multiplier": 5 },
+    { "name": "Cloudtouched", "multiplier": 6 },
+    { "name": "Clay", "multiplier": 5 },
+    { "name": "Fried", "multiplier": 8 },
+    { "name": "Cooked", "multiplier": 10 },
+    { "name": "Amber", "multiplier": 10 },
+    { "name": "Tempestuous", "multiplier": 12 },
+    { "name": "OldAmber", "multiplier": 20 },
+    { "name": "Zombified", "multiplier": 25 },
+    { "name": "Molten", "multiplier": 25 },
+    { "name": "Ceramic", "multiplier": 30 },
+    { "name": "AncientAmber", "multiplier": 50 },
+    { "name": "Friendbound", "multiplier": 70 },
+    { "name": "Infected", "multiplier": 75 },
+    { "name": "Sundried", "multiplier": 85 },
+    { "name": "Aurora", "multiplier": 90 },
+    { "name": "Shocked", "multiplier": 100 },
+    { "name": "Paradisal", "multiplier": 100 },
+    { "name": "Alienlike", "multiplier": 100 },
+    { "name": "Celestial", "multiplier": 120 },
+    { "name": "Galactic", "multiplier": 120 },
+    { "name": "Disco", "multiplier": 125 },
+    { "name": "Meteoric", "multiplier": 125 },
+    { "name": "Voidtouched", "multiplier": 135 },
+    { "name": "Dawnbound", "multiplier": 150 }
+  ]
+} 

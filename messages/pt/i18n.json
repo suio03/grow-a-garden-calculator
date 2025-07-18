@@ -1,0 +1,458 @@
+{
+    "page": {
+      "seo-title": "Calculadora Grow a Garden | A Ferramenta de Lucro Mais Precisa",
+      "seo-description": "A calculadora definitiva Grow a Garden para cálculo preciso de valor de colheita e lucro. Apresenta dados em tempo real, suporte total a mutações e rastreadores ao vivo para maximizar seus Sheckles.",
+      "hero": {
+        "title": "Calculadora Grow a Garden",
+        "subtitle": "Pare de adivinhar. Comece a lucrar. Obtenha valores precisos de colheitas em tempo real para maximizar cada colheita."
+      },
+      "problemSolution": {
+        "title": "Cansado de vender abaixo do seu trabalho duro?",
+        "description": "A economia Grow a Garden é complexa. Entre mutações, bônus de amigos e pesos flutuantes, é fácil vender uma colheita premiada por uma fração do seu valor real. Nossa calculadora Grow a Garden remove todas as suposições, garantindo que você obtenha o valor máximo que merece, todas as vezes.",
+        "solutionTitle": "A Vantagem Definitiva para Cada Agricultor."
+      },
+      "features": {
+        "title": "Um Conjunto Incomparável de Recursos",
+        "description": "Construímos esta calculadora Grow a Garden com um objetivo: ser a ferramenta mais precisa e abrangente para os jogadores de Grow a Garden.",
+        "items": [
+          {
+            "icon": "calculator",
+            "title": "Cálculo de Valor de Precisão",
+            "description": "A calculadora Grow a Garden usa as fórmulas exatas do jogo para valor base, peso e bônus, fornecendo o preço de venda mais preciso possível."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Suporte Completo a Mutações",
+            "description": "Selecione facilmente qualquer combinação de mutações (Dourado, Chocado, Molhado, etc.) e nossa calculadora aplicará automaticamente o empilhamento multiplicativo correto."
+          },
+          {
+            "icon": "users",
+            "title": "Bônus de Amigo Integrado",
+            "description": "Use o controle deslizante simples para levar em conta seu bônus de amigo e veja todo o potencial de uma colheita colaborativa antes mesmo de vender."
+          },
+          {
+            "icon": "search",
+            "title": "Banco de Dados de Pesquisa Instantânea",
+            "description": "Nosso banco de dados completo e rico em imagens de todas as colheitas, incluindo itens raros e de eventos, permite que você encontre o que precisa em segundos."
+          },
+          {
+            "icon": "cloudLightning",
+            "title": "Rastreamento de Tempo e Loja ao Vivo",
+            "description": "Obtenha uma vantagem estratégica planejando em torno de eventos climáticos em tempo real e conhecendo o inventário atual da loja sem estar no jogo."
+          },
+          {
+            "icon": "mobile",
+            "title": "Totalmente Responsivo para Dispositivos Móveis",
+            "description": "Calcule valores em movimento. Todo o nosso site é otimizado para uma experiência perfeita em seu telefone ou tablet."
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Obtenha o Valor da Sua Colheita em 3 Passos Simples",
+        "steps": [
+          {
+            "step": "Passo 1",
+            "title": "Vá para a Calculadora Grow a Garden",
+            "description": "Encontre rapidamente qualquer colheita usando nosso menu suspenso pesquisável com imagens."
+          },
+          {
+            "step": "Passo 2",
+            "title": "Insira os Detalhes",
+            "description": "Insira o peso da colheita e marque todas as suas mutações."
+          },
+          {
+            "step": "Passo 3",
+            "title": "Veja o Valor Instantâneo",
+            "description": "Obtenha o valor preciso em Sheckles instantaneamente, pronto para você fazer a venda mais lucrativa."
+          }
+        ]
+      },
+      "socialProof": {
+        "title": "Por que os Melhores Agricultores Confiam na Calculadora Grow a Garden",
+        "testimonials": [
+          {
+            "quote": "Esta é a única calculadora em que confio. O empilhamento de mutações é perfeito e os rastreadores ao vivo são uma virada de jogo para planejar minhas colheitas.",
+            "author": "PixelFarmer_Pro",
+            "source": "Top 100 Jogador"
+          },
+          {
+            "quote": "Percebi que estava perdendo milhares de Sheckles ao adivinhar valores. Esta ferramenta se pagou em uma colheita. Um item absolutamente essencial para qualquer jogador sério.",
+            "author": "SheckleHunter",
+            "source": "Membro da Comunidade GAG"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Perguntas Frequentes",
+        "questions": [
+          {
+            "q": "Como você garante a precisão desta calculadora Grow a Garden?",
+            "a": "Nosso sistema é diretamente sincronizado com os dados e fórmulas oficiais do jogo. Temos verificações automatizadas que são executadas após cada atualização do jogo para garantir que nossos valores estejam sempre 100% alinhados com o que você vê no jogo."
+          },
+          {
+            "q": "As colheitas e mutações específicas de eventos estão incluídas?",
+            "a": "Sim. Nosso banco de dados é atualizado no momento em que um novo evento começa, incluindo quaisquer novas colheitas, equipamentos ou mutações temporárias, para que você esteja sempre preparado."
+          },
+          {
+            "q": "Qual é a melhor maneira de usar o rastreador de clima ao vivo?",
+            "a": "Use o rastreador para fazer login pouco antes de uma tempestade para maximizar suas chances de obter a mutação 'Chocado', extremamente valiosa, em suas colheitas."
+          },
+          {
+            "q": "A calculadora Grow a Garden é gratuita?",
+            "a": "Sim, a calculadora Grow a Garden é gratuita para usar. Não exigimos nenhum pagamento ou inscrição para usar nossa calculadora."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Pronto para Maximizar Seus Lucros?",
+        "description": "Marque esta página agora e faça dela sua ferramenta preferida para cada colheita. Pare de deixar Sheckles na mesa.",
+        "buttonText": "Calcular Minha Primeira Colheita"
+      },
+      "crop-section": {
+        "title": "Seção de Colheitas",
+        "details": "Detalhes",
+        "search-placeholder": "Pesquise por uma colheita..."
+      },
+      "live-results": {
+        "title": "Resultados ao Vivo",
+        "crop-name": "Colheita",
+        "quantity": "Quantidade",
+        "mutations": "Mutações",
+        "weight": "Peso"
+      },
+      "quick-controls": {
+        "title": "Controles Rápidos",
+        "weight": "Peso",
+        "friend-boost": "Bônus de Amigo",
+        "quantity": "Quantidade"
+      },
+      "mutations": {
+        "title": "Mutações",
+        "show-advanced": "Mostrar Avançado",
+        "hide-advanced": "Ocultar Avançado",
+        "search-placeholder": "Pesquisar uma mutação...",
+        "max-all": "Máx. Todos",
+        "Growth": "Crescimento",
+        "temperature": "Temperatura",
+        "environmental": "Ambiental",
+        "no-mutations-selected": "Nenhuma mutação selecionada • Clique em &ldquo;Mostrar Avançado&rdquo; para configurar"
+      }
+    },
+    "privacy": {
+      "seo-title": "Política de Privacidade | Calculadora Grow a Garden",
+      "seo-description": "Saiba como a Calculadora Grow a Garden coleta, usa e protege suas informações quando você usa nossa ferramenta gratuita de cálculo de valor de colheita.",
+      "title": "Política de Privacidade",
+      "last-updated": "Última atualização: Julho de 2025",
+      "introduction": {
+        "title": "Introdução",
+        "content": "Esta Política de Privacidade descreve como a Calculadora Grow a Garden coleta, usa e protege suas informações quando você usa nossa ferramenta gratuita de cálculo de valor de colheita. Estamos comprometidos em proteger sua privacidade e ser transparentes sobre nossas práticas de dados."
+      },
+      "information-we-collect": {
+        "title": "Informações que Coletamos",
+        "personal-data": {
+          "title": "Dados Pessoais",
+          "content": "A Calculadora Grow a Garden não coleta, armazena ou processa nenhuma informação pessoal. Não exigimos registro, contas ou quaisquer detalhes pessoais para usar nossa calculadora.",
+          "items": [
+            "Sem endereços de e-mail, nomes ou informações de contato",
+            "Sem criação de contas ou perfis de usuário",
+            "Sem dados de identificação pessoal",
+            "Sem informações de pagamento (nossa ferramenta é totalmente gratuita)"
+          ]
+        },
+        "service-data": {
+          "title": "Dados de Uso da Calculadora",
+          "content": "Não armazenamos nenhum dos dados que você insere em nossa calculadora. Todos os cálculos são realizados localmente em seu navegador.",
+          "items": [
+            "As seleções de colheitas e as entradas de peso não são salvas",
+            "As seleções de mutações não são armazenadas",
+            "Os resultados dos cálculos não são registrados",
+            "Todos os dados permanecem apenas na sessão do seu navegador"
+          ]
+        },
+        "technical-data": {
+          "title": "Dados Técnicos",
+          "content": "Usamos o Google Analytics para entender como nossa ferramenta é usada e para melhorar a experiência do usuário.",
+          "items": [
+            "Visualizações de página e interações do usuário",
+            "Tipo de dispositivo e informações do navegador",
+            "Localização geográfica (nível de país/região)",
+            "Tempo gasto no site e recursos populares"
+          ]
+        }
+      },
+      "data-usage": {
+        "title": "Como Usamos Suas Informações",
+        "service-provision": {
+          "title": "Prestação de Serviço",
+          "content": "Usamos os dados técnicos limitados que coletamos para:",
+          "items": [
+            "Garantir que nossa calculadora funcione corretamente em diferentes dispositivos",
+            "Otimizar os tempos de carregamento e o desempenho",
+            "Identificar e corrigir problemas técnicos",
+            "Fornecer cálculos precisos de valor de colheita"
+          ]
+        },
+        "service-improvement": {
+          "title": "Melhoria do Serviço",
+          "content": "Os dados de análise nos ajudam a melhorar a Calculadora Grow a Garden ao:",
+          "items": [
+            "Compreender quais recursos são mais populares",
+            "Identificar áreas para melhorias",
+            "Testar novos recursos e layouts",
+            "Garantir a compatibilidade e capacidade de resposta em dispositivos móveis"
+          ]
+        }
+      },
+      "data-retention": {
+        "title": "Retenção de Dados",
+        "content": "Como não armazenamos suas entradas de calculadora, não há dados pessoais a serem retidos. Os dados do Google Analytics são retidos de acordo com as políticas padrão do Google:",
+        "items": [
+          "Os dados de análise são excluídos automaticamente após 26 meses",
+          "Você pode desativar o rastreamento de análise usando as configurações do navegador",
+          "Nenhum dado pessoal de cálculo é armazenado por nós",
+          "Todas as entradas da calculadora são processadas localmente em seu navegador"
+        ]
+      },
+      "data-sharing": {
+        "title": "Compartilhamento de Dados",
+        "content": "Não vendemos, comercializamos ou compartilhamos suas informações com terceiros, exceto:",
+        "items": [
+          "O Google Analytics processa estatísticas de uso anônimas",
+          "Nenhuma informação pessoal é compartilhada com ninguém",
+          "Nenhum dado de cálculo é transmitido a serviços externos",
+          "Nenhuma parceria de marketing ou publicidade envolve dados do usuário"
+        ]
+      },
+      "data-protection-rights": {
+        "title": "Seus Direitos de Proteção de Dados",
+        "content": "Como não coletamos dados pessoais, a maioria das preocupações com a proteção de dados não se aplica. No entanto, você tem estes direitos:",
+        "items": [
+          "Direito de desativar o rastreamento do Google Analytics",
+          "Direito de usar a calculadora sem qualquer coleta de dados",
+          "Direito de limpar os dados do seu navegador a qualquer momento",
+          "Direito de usar bloqueadores de anúncios ou ferramentas de privacidade"
+        ]
+      },
+      "content-generation-privacy": {
+        "title": "Privacidade da Calculadora",
+        "content": "Seus cálculos de colheita são totalmente privados:",
+        "items": [
+          "Todos os cálculos acontecem em seu navegador localmente",
+          "Nenhum dado de colheita é enviado para nossos servidores",
+          "Nenhum histórico de cálculo é armazenado",
+          "Suas estratégias de cultivo permanecem totalmente privadas"
+        ]
+      },
+      "childrens-privacy": {
+        "title": "Privacidade das Crianças",
+        "content": "Nossa calculadora é adequada para todas as idades. Como não coletamos informações pessoais, não há preocupações especiais de privacidade para crianças que usam nossa ferramenta. Os pais podem permitir que as crianças usem a calculadora com segurança, sem qualquer preocupação com a coleta de dados."
+      },
+      "security-measures": {
+        "title": "Medidas de Segurança",
+        "content": "Implementamos medidas de segurança apropriadas para proteger nosso serviço:",
+        "items": [
+          "Criptografia HTTPS para todas as conexões",
+          "Atualizações e monitoramento regulares de segurança",
+          "Nenhum armazenamento de dados confidenciais do usuário",
+          "Infraestrutura de hospedagem segura"
+        ]
+      },
+      "data-protection-practices": {
+        "title": "Práticas de Proteção de Dados",
+        "content": "Nossa abordagem de privacidade em primeiro lugar inclui:",
+        "items": [
+          "Coleta mínima de dados por design",
+          "Sem rastreamento ou cookies desnecessários",
+          "Processamento local de todos os cálculos",
+          "Práticas de privacidade transparentes"
+        ]
+      },
+      "international-data-transfers": {
+        "title": "Transferências Internacionais de Dados",
+        "content": "A única transferência de dados envolve o Google Analytics:",
+        "items": [
+          "Dados de análise anônimos podem ser processados globalmente pelo Google",
+          "Nenhuma informação pessoal cruza fronteiras internacionais",
+          "O Google Analytics está em conformidade com as leis internacionais de proteção de dados",
+          "Você pode desativar a análise a qualquer momento"
+        ]
+      },
+      "policy-updates": {
+        "title": "Atualizações da Política",
+        "content": "Podemos atualizar esta política de privacidade ocasionalmente:",
+        "items": [
+          "As atualizações serão postadas nesta página com uma nova data",
+          "Mudanças significativas serão claramente destacadas",
+          "O uso continuado da calculadora indica aceitação",
+          "Sempre manteremos nossa abordagem de privacidade em primeiro lugar"
+        ]
+      },
+      "your-rights": {
+        "title": "Exercendo Seus Direitos",
+        "content": "Para exercer seus direitos de privacidade:",
+        "items": [
+          "Use as configurações de privacidade do navegador para controlar a análise",
+          "Limpe os dados do seu navegador para remover todos os rastros",
+          "Use a navegação privada/anônima para obter o máximo de privacidade",
+          "Entre em contato conosco através da calculadora se tiver preocupações com a privacidade"
+        ]
+      },
+      "contact-information": {
+        "title": "Informações de Contato",
+        "content": "Se você tiver dúvidas sobre esta política de privacidade ou nossas práticas de dados, você pode entrar em contato conosco através das opções de contato disponíveis no site da Calculadora Grow a Garden."
+      }
+    },
+    "tos": {
+      "seo-title": "Termos de Serviço | Calculadora Grow a Garden",
+      "seo-description": "Saiba como a Calculadora Grow a Garden coleta, usa e protege suas informações quando você usa nossa ferramenta gratuita de cálculo de valor de colheita.",
+      "title": "Termos de Serviço",
+      "last-updated": "Última atualização: Julho de 2025",
+      "acceptance": {
+        "title": "Aceitação dos Termos",
+        "content": "Ao acessar e usar a Calculadora Grow a Garden, você aceita e concorda em ficar vinculado aos termos e disposições deste acordo. Se você não concordar em cumprir o acima, por favor, não use este serviço."
+      },
+      "description": {
+        "title": "Descrição do Serviço",
+        "content": "A Calculadora Grow a Garden é uma ferramenta gratuita que ajuda os jogadores a calcular os valores das colheitas e otimizar suas estratégias de cultivo. Nosso serviço inclui:",
+        "features": [
+          "Cálculos precisos de valor de colheita com base no peso e nas mutações",
+          "Cálculo em tempo real de bônus e multiplicadores de amigos",
+          "Banco de dados abrangente de colheitas e mutações",
+          "Design responsivo para dispositivos móveis para cálculos em movimento",
+          "Acesso gratuito a todos os recursos de cálculo"
+        ]
+      },
+      "accounts": {
+        "title": "Contas de Usuário",
+        "content": "A Calculadora Grow a Garden não exige contas de usuário ou registro:",
+        "requirements": [
+          "Nenhum registro ou inscrição é necessário",
+          "Nenhuma informação pessoal é necessária para usar a calculadora",
+          "Todos os recursos estão imediatamente disponíveis para todos os usuários",
+          "Nenhum gerenciamento de conta ou requisitos de senha"
+        ]
+      },
+      "fees": {
+        "title": "Taxas e Pagamentos",
+        "payment-terms": {
+          "title": "Termos de Pagamento",
+          "items": [
+            "A Calculadora Grow a Garden é totalmente gratuita",
+            "Sem taxas de assinatura, recursos premium ou custos ocultos",
+            "Nenhuma informação de pagamento é coletada",
+            "Todos os recursos de cálculo estão disponíveis gratuitamente"
+          ]
+        },
+        "refund-policy": {
+          "title": "Política de Reembolso",
+          "items": [
+            "Como nosso serviço é gratuito, nenhum reembolso é aplicável",
+            "Nenhuma taxa é cobrada pelo uso da calculadora",
+            "Não existem recursos premium ou atualizações pagas",
+            "Todos os usuários têm acesso ao conjunto completo de recursos"
+          ]
+        }
+      },
+      "acceptable-use": {
+        "title": "Uso Aceitável",
+        "content": "Você concorda em usar a Calculadora Grow a Garden de forma responsável e não:",
+        "restrictions": [
+          "Usar o serviço para qualquer finalidade ilegal ou não autorizada",
+          "Tentar interferir ou interromper o serviço",
+          "Usar ferramentas automatizadas para sobrecarregar nossos servidores",
+          "Fazer engenharia reversa ou tentar extrair nossas fórmulas de cálculo",
+          "Deturpar a fonte ou a precisão dos resultados do cálculo"
+        ]
+      },
+      "intellectual-property": {
+        "title": "Propriedade Intelectual",
+        "service-ownership": {
+          "title": "Propriedade do Serviço",
+          "items": [
+            "O design e o código da Calculadora Grow a Garden são de nossa propriedade",
+            "Algoritmos e fórmulas de cálculo são nossa propriedade intelectual",
+            "O design do site, layout e interface do usuário são protegidos",
+            "Nossa marca e logotipo são de nossa propriedade"
+          ]
+        },
+        "user-rights": {
+          "title": "Seus Direitos",
+          "items": [
+            "Você pode usar a calculadora para fins de jogos pessoais",
+            "Você pode compartilhar os resultados dos cálculos com outros jogadores",
+            "Você pode fazer referência à nossa ferramenta em discussões sobre jogos",
+            "Você não pode copiar ou reproduzir nosso código ou design"
+          ]
+        }
+      },
+      "content-guidelines": {
+        "title": "Diretrizes de Conteúdo",
+        "content": "Ao usar nossa calculadora, por favor:",
+        "requirements": [
+          "Use dados precisos de peso e mutação para obter resultados significativos",
+          "Entenda que os cálculos são estimativas baseadas na mecânica atual do jogo",
+          "Verifique cálculos importantes antes de tomar decisões importantes no jogo",
+          "Relate quaisquer erros de cálculo ou bugs que você descobrir"
+        ]
+      },
+      "limitations": {
+        "title": "Limitações do Serviço",
+        "content": "Por favor, entenda estas limitações de nosso serviço:",
+        "items": [
+          "Os cálculos são baseados na mecânica atual do jogo e podem mudar",
+          "Não podemos garantir 100% de precisão devido a possíveis atualizações do jogo",
+          "O serviço pode ocasionalmente estar indisponível para manutenção",
+          "Conexão com a Internet é necessária para acessar a calculadora"
+        ]
+      },
+      "privacy": {
+        "title": "Privacidade",
+        "content": "Sua privacidade é importante para nós:",
+        "items": [
+          "Não armazenamos suas entradas de cálculo",
+          "Nenhuma informação pessoal é necessária ou coletada",
+          "Apenas análises anônimas são usadas para melhorar o serviço",
+          "Consulte nossa Política de Privacidade para obter detalhes completos"
+        ]
+      },
+      "termination": {
+        "title": "Rescisão",
+        "content": "Podemos restringir o acesso ao nosso serviço se:",
+        "reasons": [
+          "Você violar estes termos de serviço",
+          "Você tentar abusar ou sobrecarregar nossos sistemas",
+          "Você se envolver em atividades que prejudiquem outros usuários",
+          "Requisitos legais exigem a restrição de acesso"
+        ]
+      },
+      "updates": {
+        "title": "Atualizações de Serviço",
+        "content": "Podemos atualizar nosso serviço e termos:",
+        "items": [
+          "As fórmulas de cálculo podem ser atualizadas para corresponder às mudanças do jogo",
+          "Novos recursos podem ser adicionados para melhorar a experiência do usuário",
+          "Os termos de serviço podem ser atualizados conforme necessário",
+          "O uso contínuo indica a aceitação dos termos atualizados"
+        ]
+      },
+      "liability": {
+        "title": "Limitação de Responsabilidade",
+        "content": "Nossa responsabilidade é limitada da seguinte forma:",
+        "items": [
+          "A calculadora é fornecida 'como está' sem garantias",
+          "Não somos responsáveis por quaisquer perdas no jogo com base em nossos cálculos",
+          "Não garantimos a disponibilidade contínua do serviço",
+          "Os usuários são responsáveis por verificar a precisão dos cálculos"
+        ]
+      },
+      "contact": {
+        "title": "Informações de Contato",
+        "content": "Se você tiver dúvidas sobre estes termos, pode entrar em contato conosco através das opções de contato disponíveis no site da Calculadora Grow a Garden."
+      }
+    },
+    "footer": {
+      "privacy-policy": "Política de Privacidade",
+      "terms-of-service": "Termos de Serviço",
+      "description": "A ferramenta mais precisa e abrangente para jogadores de Grow a Garden. Calcule valores precisos de colheitas com suporte total a mutações."
+    }
+  }

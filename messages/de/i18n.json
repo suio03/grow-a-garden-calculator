@@ -1,0 +1,458 @@
+{
+    "page": {
+      "seo-title": "Grow a Garden Rechner | Das genaueste Gewinn-Tool",
+      "seo-description": "Der definitive Grow a Garden Rechner für präzise Erntewerte und Gewinnberechnung. Bietet Echtzeitdaten, volle Mutationsunterstützung und Live-Tracker zur Maximierung Ihrer Schekel.",
+      "hero": {
+        "title": "Grow a Garden Rechner",
+        "subtitle": "Hören Sie auf zu raten. Beginnen Sie zu profitieren. Erhalten Sie präzise, Echtzeit-Erntewerte, um jede einzelne Ernte zu maximieren."
+      },
+      "problemSolution": {
+        "title": "Sind Sie es leid, Ihre harte Arbeit unter Wert zu verkaufen?",
+        "description": "Die Anbau-Garten-Wirtschaft ist komplex. Zwischen Mutationen, Freundesboni und schwankenden Gewichten ist es leicht, eine wertvolle Ernte für einen Bruchteil ihres wahren Wertes zu verkaufen. Unser Grow a Garden Rechner macht das Rätselraten überflüssig und stellt sicher, dass Sie jedes Mal den maximalen Wert erhalten, den Sie verdienen.",
+        "solutionTitle": "Der ultimative Vorteil für jeden Bauern."
+      },
+      "features": {
+        "title": "Eine unübertroffene Reihe von Funktionen",
+        "description": "Wir haben diesen Grow a Garden Rechner mit einem Ziel entwickelt: das genaueste und umfassendste Werkzeug für Anbau-Garten-Spieler zu sein.",
+        "items": [
+          {
+            "icon": "calculator",
+            "title": "Präzise Wertberechnung",
+            "description": "Der Grow a Garden Rechner verwendet die exakten In-Game-Formeln für Basiswert, Gewicht und Boni und liefert Ihnen den genauestmöglichen Verkaufspreis."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Volle Mutationsunterstützung",
+            "description": "Wählen Sie einfach eine beliebige Kombination von Mutationen (Golden, Shocked, Wet usw.) aus, und unser Rechner wendet automatisch das korrekte multiplikative Stacking an."
+          },
+          {
+            "icon": "users",
+            "title": "Integrierter Freundes-Boost",
+            "description": "Verwenden Sie den einfachen Schieberegler, um Ihren Freundesbonus zu berücksichtigen und das volle Potenzial einer kollaborativen Ernte zu sehen, bevor Sie überhaupt verkaufen."
+          },
+          {
+            "icon": "search",
+            "title": "Sofortige Suchdatenbank",
+            "description": "Unsere vollständige, bildreiche Datenbank aller Nutzpflanzen, einschliesslich seltener und Event-Items, ermöglicht es Ihnen, in Sekundenschnelle zu finden, was Sie brauchen."
+          },
+          {
+            "icon": "cloudLightning",
+            "title": "Live-Wetter- und Shop-Tracker",
+            "description": "Verschaffen Sie sich einen strategischen Vorteil, indem Sie um Echtzeit-Wetterereignisse planen und die aktuelle Shop-Inventur kennen, ohne im Spiel zu sein."
+          },
+          {
+            "icon": "mobile",
+            "title": "Vollständig mobil responsive",
+            "description": "Berechnen Sie Werte unterwegs. Unsere gesamte Website ist für ein nahtloses Erlebnis auf Ihrem Smartphone oder Tablet optimiert."
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Ermitteln Sie den Wert Ihrer Ernte in 3 einfachen Schritten",
+        "steps": [
+          {
+            "step": "Schritt 1",
+            "title": "Gehen Sie zum Grow a Garden Rechner",
+            "description": "Finden Sie schnell jede Nutzpflanze mit unserem durchsuchbaren Dropdown-Menü mit Bildern."
+          },
+          {
+            "step": "Schritt 2",
+            "title": "Geben Sie die Details ein",
+            "description": "Geben Sie das Gewicht der Nutzpflanze ein und kreuzen Sie alle Mutationen an."
+          },
+          {
+            "step": "Schritt 3",
+            "title": "Sehen Sie den Sofortwert",
+            "description": "Erhalten Sie sofort den genauen Schekel-Wert, damit Sie den profitabelsten Verkauf tätigen können."
+          }
+        ]
+      },
+      "socialProof": {
+        "title": "Warum Top-Bauern sich auf den Grow a Garden Rechner verlassen",
+        "testimonials": [
+          {
+            "quote": "Das ist der einzige Rechner, dem ich vertraue. Das Mutations-Stacking ist perfekt und die Live-Tracker sind ein Game-Changer für die Planung meiner Ernten.",
+            "author": "PixelFarmer_Pro",
+            "source": "Top 100 Spieler"
+          },
+          {
+            "quote": "Ich habe gemerkt, dass ich Tausende von Schekel durch das Raten von Werten verloren habe. Dieses Tool hat sich in einer Ernte bezahlt gemacht. Ein absolutes Muss für jeden ernsthaften Spieler.",
+            "author": "SheckleHunter",
+            "source": "GAG Community-Mitglied"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Häufig gestellte Fragen",
+        "questions": [
+          {
+            "q": "Wie garantieren Sie die Genauigkeit dieses Grow a Garden Rechners?",
+            "a": "Unser System ist direkt mit den offiziellen Spieldaten und -formeln synchronisiert. Wir haben automatische Überprüfungen, die nach jedem Spiel-Update durchgeführt werden, um sicherzustellen, dass unsere Werte immer zu 100 % mit dem übereinstimmen, was Sie im Spiel sehen."
+          },
+          {
+            "q": "Sind eventspezifische Nutzpflanzen und Mutationen enthalten?",
+            "a": "Ja. Unsere Datenbank wird in dem Moment aktualisiert, in dem ein neues Event beginnt, einschliesslich neuer Nutzpflanzen, Ausrüstung oder temporärer Mutationen, sodass Sie immer vorbereitet sind."
+          },
+          {
+            "q": "Wie verwende ich den Live-Wetter-Tracker am besten?",
+            "a": "Verwenden Sie den Tracker, um sich kurz vor einem Gewitter anzumelden, um Ihre Chancen auf die extrem wertvolle 'Shocked'-Mutation auf Ihren Nutzpflanzen zu maximieren."
+          },
+          {
+            "q": "Ist der Grow a Garden Rechner kostenlos?",
+            "a": "Ja, der Grow a Garden Rechner ist kostenlos. Wir verlangen keine Zahlung oder Anmeldung, um unseren Rechner zu verwenden."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Bereit, Ihre Gewinne zu maximieren?",
+        "description": "Setzen Sie jetzt ein Lesezeichen für diese Seite und machen Sie sie zu Ihrem bevorzugten Tool für jede Ernte. Hören Sie auf, Schekel auf dem Tisch liegen zu lassen.",
+        "buttonText": "Meine erste Ernte berechnen"
+      },
+      "crop-section": {
+        "title": "Pflanzenabschnitt",
+        "details": "Details",
+        "search-placeholder": "Nach einer Nutzpflanze suchen..."
+      },
+      "live-results": {
+        "title": "Live-Ergebnisse",
+        "crop-name": "Ernte",
+        "quantity": "Menge",
+        "mutations": "Mutationen",
+        "weight": "Gewicht"
+      },
+      "quick-controls": {
+        "title": "Schnellsteuerung",
+        "weight": "Gewicht",
+        "friend-boost": "Freundesbonus",
+        "quantity": "Menge"
+      },
+      "mutations": {
+        "title": "Mutationen",
+        "show-advanced": "Erweitert anzeigen",
+        "hide-advanced": "Erweitert ausblenden",
+        "search-placeholder": "Nach einer Mutation suchen...",
+        "max-all": "Alle maximieren",
+        "Growth": "Wachstum",
+        "temperature": "Temperatur",
+        "environmental": "Umwelt",
+        "no-mutations-selected": "Keine Mutationen ausgewählt • Klicken Sie auf „Erweitert anzeigen“, um zu konfigurieren"
+      }
+    },
+    "privacy": {
+      "seo-title": "Datenschutzrichtlinie | Grow a Garden Rechner",
+      "seo-description": "Erfahren Sie, wie der Grow a Garden Rechner Ihre Informationen sammelt, verwendet und schützt, wenn Sie unser kostenloses Tool zur Berechnung von Erntewerten verwenden.",
+      "title": "Datenschutzrichtlinie",
+      "last-updated": "Zuletzt aktualisiert: Juli 2025",
+      "introduction": {
+        "title": "Einführung",
+        "content": "Diese Datenschutzrichtlinie beschreibt, wie der Grow a Garden Rechner Ihre Informationen sammelt, verwendet und schützt, wenn Sie unser kostenloses Tool zur Berechnung von Erntewerten verwenden. Wir verpflichten uns, Ihre Privatsphäre zu schützen und transparent über unsere Datenpraktiken zu sein."
+      },
+      "information-we-collect": {
+        "title": "Informationen, die wir sammeln",
+        "personal-data": {
+          "title": "Persönliche Daten",
+          "content": "Der Grow a Garden Rechner sammelt, speichert oder verarbeitet keine persönlichen Daten. Wir benötigen weder eine Registrierung noch Konten oder persönliche Angaben, um unseren Rechner zu verwenden.",
+          "items": [
+            "Keine E-Mail-Adressen, Namen oder Kontaktinformationen",
+            "Keine Kontoerstellung oder Benutzerprofile",
+            "Keine persönlichen Identifikationsdaten",
+            "Keine Zahlungsinformationen (unser Tool ist völlig kostenlos)"
+          ]
+        },
+        "service-data": {
+          "title": "Nutzungsdaten des Rechners",
+          "content": "Wir speichern keine der Daten, die Sie in unseren Rechner eingeben. Alle Berechnungen werden lokal in Ihrem Browser durchgeführt.",
+          "items": [
+            "Pflanzenauswahlen und Gewichtseingaben werden nicht gespeichert",
+            "Mutationsauswahlen werden nicht gespeichert",
+            "Berechnungsergebnisse werden nicht aufgezeichnet",
+            "Alle Daten verbleiben nur in Ihrer Browsersitzung"
+          ]
+        },
+        "technical-data": {
+          "title": "Technische Daten",
+          "content": "Wir verwenden Google Analytics, um zu verstehen, wie unser Tool verwendet wird, und um die Benutzererfahrung zu verbessern.",
+          "items": [
+            "Seitenaufrufe und Benutzerinteraktionen",
+            "Gerätetyp und Browserinformationen",
+            "Geografischer Standort (auf Landes-/Regionenebene)",
+            "Verbrachte Zeit auf der Website und beliebte Funktionen"
+          ]
+        }
+      },
+      "data-usage": {
+        "title": "Wie wir Ihre Informationen verwenden",
+        "service-provision": {
+          "title": "Dienstleistungserbringung",
+          "content": "Wir verwenden die begrenzten technischen Daten, die wir sammeln, um:",
+          "items": [
+            "Sicherzustellen, dass unser Rechner auf verschiedenen Geräten ordnungsgemäss funktioniert",
+            "Ladezeiten und Leistung optimieren",
+            "Technische Probleme identifizieren und beheben",
+            "Genaue Erntewertberechnungen liefern"
+          ]
+        },
+        "service-improvement": {
+          "title": "Serviceverbesserung",
+          "content": "AnalyseDaten helfen uns, den Grow a Garden Rechner zu verbessern, indem:",
+          "items": [
+            "Festgestellt wird, welche Funktionen am beliebtesten sind",
+            "Verbesserungsmöglichkeiten identifiziert werden",
+            "Neue Funktionen und Layouts getestet werden",
+            "Die mobile Kompatibilität und Reaktionsfähigkeit sichergestellt wird"
+          ]
+        }
+      },
+      "data-retention": {
+        "title": "Datenaufbewahrung",
+        "content": "Da wir Ihre Rechnereingaben nicht speichern, gibt es keine personenbezogenen Daten, die aufbewahrt werden müssen. Google Analytics-Daten werden gemäss den Standardrichtlinien von Google aufbewahrt:",
+        "items": [
+          "Analytics-Daten werden nach 26 Monaten automatisch gelöscht",
+          "Sie können die Analytics-Verfolgung über die Browsereinstellungen deaktivieren",
+          "Es werden niemals persönliche Berechnungsdaten von uns gespeichert",
+          "Alle Rechnereingaben werden lokal in Ihrem Browser verarbeitet"
+        ]
+      },
+      "data-sharing": {
+        "title": "Datenaustausch",
+        "content": "Wir verkaufen, handeln oder teilen Ihre Informationen nicht mit Dritten, ausser:",
+        "items": [
+          "Google Analytics verarbeitet anonyme Nutzungsstatistiken",
+          "Es werden keine persönlichen Informationen an Dritte weitergegeben",
+          "Es werden keine Berechnungsdaten an externe Dienste übertragen",
+          "Es gibt keine Marketing- oder Werbepartnerschaften, die Benutzerdaten umfassen"
+        ]
+      },
+      "data-protection-rights": {
+        "title": "Ihre Datenschutzrechte",
+        "content": "Da wir keine personenbezogenen Daten erheben, gelten die meisten Datenschutzbedenken nicht. Sie haben jedoch folgende Rechte:",
+        "items": [
+          "Recht auf Deaktivierung der Google Analytics-Verfolgung",
+          "Recht auf Nutzung des Rechners ohne Datenerhebung",
+          "Recht, Ihre Browserdaten jederzeit zu löschen",
+          "Recht auf Nutzung von Werbeblockern oder Datenschutztools"
+        ]
+      },
+      "content-generation-privacy": {
+        "title": "Rechner-Datenschutz",
+        "content": "Ihre Ernteberechnungen sind absolut privat:",
+        "items": [
+          "Alle Berechnungen erfolgen lokal in Ihrem Browser",
+          "Es werden keine Erntedaten an unsere Server gesendet",
+          "Es wird kein Berechnungsprotokoll gespeichert",
+          "Ihre Anbaustrategien bleiben absolut privat"
+        ]
+      },
+      "childrens-privacy": {
+        "title": "Datenschutz von Kindern",
+        "content": "Unser Rechner ist für alle Altersgruppen geeignet. Da wir keine persönlichen Daten erheben, gibt es keine besonderen Datenschutzbedenken für Kinder, die unser Tool verwenden. Eltern können Kindern die Nutzung des Rechners ohne Bedenken hinsichtlich der Datenerhebung bedenkenlos erlauben."
+      },
+      "security-measures": {
+        "title": "Sicherheitsmassnahmen",
+        "content": "Wir implementieren geeignete Sicherheitsmassnahmen, um unseren Dienst zu schützen:",
+        "items": [
+          "HTTPS-Verschlüsselung für alle Verbindungen",
+          "Regelmässige Sicherheitsupdates und -überwachung",
+          "Keine Speicherung sensibler Benutzerdaten",
+          "Sichere Hosting-Infrastruktur"
+        ]
+      },
+      "data-protection-practices": {
+        "title": "Datenschutzpraktiken",
+        "content": "Unser Ansatz, der die Privatsphäre in den Vordergrund stellt, umfasst:",
+        "items": [
+          "Minimale Datenerhebung durch Design",
+          "Kein unnötiges Tracking oder Cookies",
+          "Lokale Verarbeitung aller Berechnungen",
+          "Transparente Datenschutzpraktiken"
+        ]
+      },
+      "international-data-transfers": {
+        "title": "Internationale Datenübermittlung",
+        "content": "Die einzige Datenübermittlung betrifft Google Analytics:",
+        "items": [
+          "Anonyme Analysedaten können von Google global verarbeitet werden",
+          "Es werden keine persönlichen Informationen über internationale Grenzen übertragen",
+          "Google Analytics entspricht den internationalen Datenschutzgesetzen",
+          "Sie können Analytics jederzeit deaktivieren"
+        ]
+      },
+      "policy-updates": {
+        "title": "Richtlinien-Updates",
+        "content": "Wir können diese Datenschutzrichtlinie gelegentlich aktualisieren:",
+        "items": [
+          "Updates werden auf dieser Seite mit einem neuen Datum veröffentlicht",
+          "Wesentliche Änderungen werden deutlich hervorgehoben",
+          "Die fortgesetzte Nutzung des Rechners bedeutet die Akzeptanz",
+          "Wir werden immer unseren Ansatz der Privatsphäre an erster Stelle beibehalten"
+        ]
+      },
+      "your-rights": {
+        "title": "Ausübung Ihrer Rechte",
+        "content": "Um Ihre Datenschutzrechte auszuüben:",
+        "items": [
+          "Verwenden Sie die Datenschutzeinstellungen des Browsers, um Analytics zu steuern",
+          "Löschen Sie Ihre Browserdaten, um alle Spuren zu entfernen",
+          "Verwenden Sie privates/Inkognito-Browsing für maximalen Datenschutz",
+          "Kontaktieren Sie uns über den Rechner, wenn Sie Bedenken hinsichtlich der Privatsphäre haben"
+        ]
+      },
+      "contact-information": {
+        "title": "Kontaktinformationen",
+        "content": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie oder unseren Datenpraktiken haben, können Sie uns über die Kontaktmöglichkeiten auf der Website des Grow a Garden Rechners erreichen."
+      }
+    },
+    "tos": {
+      "seo-title": "Nutzungsbedingungen | Grow a Garden Rechner",
+      "seo-description": "Erfahren Sie, wie der Grow a Garden Rechner Ihre Informationen sammelt, verwendet und schützt, wenn Sie unser kostenloses Tool zur Berechnung von Erntewerten verwenden.",
+      "title": "Nutzungsbedingungen",
+      "last-updated": "Zuletzt aktualisiert: Juli 2025",
+      "acceptance": {
+        "title": "Akzeptanz der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung des Grow a Garden Rechners akzeptieren Sie die Bedingungen dieser Vereinbarung und erklären sich damit einverstanden, an diese gebunden zu sein. Wenn Sie mit den obigen Bedingungen nicht einverstanden sind, verwenden Sie diesen Dienst bitte nicht."
+      },
+      "description": {
+        "title": "Dienstleistungsbeschreibung",
+        "content": "Der Grow a Garden Rechner ist ein kostenloses Tool, das Spielern hilft, Erntewerte zu berechnen und ihre Anbaustrategien zu optimieren. Unser Service beinhaltet:",
+        "features": [
+          "Genaue Erntewertberechnungen basierend auf Gewicht und Mutationen",
+          "Echtzeitberechnung von Freundesboni und Multiplikatoren",
+          "Umfassende Datenbank mit Nutzpflanzen und Mutationen",
+          "Mobil-responsives Design für Berechnungen unterwegs",
+          "Kostenloser Zugriff auf alle Berechnungsfunktionen"
+        ]
+      },
+      "accounts": {
+        "title": "Benutzerkonten",
+        "content": "Der Grow a Garden Rechner benötigt keine Benutzerkonten oder Registrierung:",
+        "requirements": [
+          "Keine Registrierung oder Anmeldung erforderlich",
+          "Keine persönlichen Informationen erforderlich, um den Rechner zu verwenden",
+          "Alle Funktionen sind sofort für alle Benutzer verfügbar",
+          "Keine Kontoverwaltung oder Kennwortanforderungen"
+        ]
+      },
+      "fees": {
+        "title": "Gebühren und Zahlungen",
+        "payment-terms": {
+          "title": "Zahlungsbedingungen",
+          "items": [
+            "Der Grow a Garden Rechner ist völlig kostenlos",
+            "Keine Abonnementgebühren, Premium-Funktionen oder versteckten Kosten",
+            "Es werden niemals Zahlungsinformationen erhoben",
+            "Alle Berechnungsfunktionen sind kostenlos verfügbar"
+          ]
+        },
+        "refund-policy": {
+          "title": "Rückerstattungsrichtlinie",
+          "items": [
+            "Da unser Service kostenlos ist, sind keine Rückerstattungen möglich",
+            "Für die Nutzung des Rechners werden niemals Gebühren erhoben",
+            "Es gibt keine Premium-Funktionen oder kostenpflichtige Upgrades",
+            "Alle Benutzer haben Zugriff auf den vollen Funktionsumfang"
+          ]
+        }
+      },
+      "acceptable-use": {
+        "title": "Zulässige Nutzung",
+        "content": "Sie stimmen zu, den Grow a Garden Rechner verantwortungsvoll zu nutzen und Folgendes zu unterlassen:",
+        "restrictions": [
+          "Verwenden Sie den Dienst für illegale oder unbefugte Zwecke",
+          "Versuchen Sie, den Dienst zu beeinträchtigen oder zu stören",
+          "Verwenden Sie automatisierte Tools, um unsere Server zu überlasten",
+          "Entwickeln Sie unsere Berechnungsformeln rückwärts oder versuchen Sie, diese zu extrahieren",
+          "Den Ursprung oder die Genauigkeit der Berechnungsergebnisse falsch darstellen"
+        ]
+      },
+      "intellectual-property": {
+        "title": "Geistiges Eigentum",
+        "service-ownership": {
+          "title": "Eigentum am Service",
+          "items": [
+            "Das Design und der Code des Grow a Garden Rechners sind unser Eigentum",
+            "Berechnungsalgorithmen und -formeln sind unser geistiges Eigentum",
+            "Website-Design, -Layout und -Benutzeroberfläche sind geschützt",
+            "Unser Branding und Logo sind unser Eigentum"
+          ]
+        },
+        "user-rights": {
+          "title": "Ihre Rechte",
+          "items": [
+            "Sie können den Rechner für persönliche Spielzwecke verwenden",
+            "Sie können Berechnungsergebnisse mit anderen Spielern teilen",
+            "Sie können unser Tool in Spiel-Diskussionen zitieren",
+            "Sie dürfen unseren Code oder unser Design nicht kopieren oder reproduzieren"
+          ]
+        }
+      },
+      "content-guidelines": {
+        "title": "Richtlinien für Inhalte",
+        "content": "Bitte beachten Sie bei der Verwendung unseres Rechners Folgendes:",
+        "requirements": [
+          "Verwenden Sie genaue Gewichts- und Mutationsdaten für aussagekräftige Ergebnisse",
+          "Verstehen Sie, dass Berechnungen Schätzungen sind, die auf aktuellen Spielmechaniken basieren",
+          "Überprüfen Sie wichtige Berechnungen, bevor Sie wichtige Entscheidungen im Spiel treffen",
+          "Melden Sie alle Berechnungsfehler oder Fehler, die Sie entdecken"
+        ]
+      },
+      "limitations": {
+        "title": "Service-Einschränkungen",
+        "content": "Bitte verstehen Sie diese Einschränkungen unseres Dienstes:",
+        "items": [
+          "Berechnungen basieren auf aktuellen Spielmechaniken und können sich ändern",
+          "Wir können aufgrund möglicher Spiel-Updates keine 100 % Genauigkeit garantieren",
+          "Der Service ist möglicherweise gelegentlich aufgrund von Wartungsarbeiten nicht verfügbar",
+          "Für den Zugriff auf den Rechner ist eine Internetverbindung erforderlich"
+        ]
+      },
+      "privacy": {
+        "title": "Datenschutz",
+        "content": "Ihre Privatsphäre ist uns wichtig:",
+        "items": [
+          "Wir speichern Ihre Berechnungseingaben nicht",
+          "Es werden keine persönlichen Informationen benötigt oder gesammelt",
+          "Nur anonyme Analysen werden zur Verbesserung des Dienstes verwendet",
+          "In unserer Datenschutzrichtlinie finden Sie alle Details"
+        ]
+      },
+      "termination": {
+        "title": "Beendigung",
+        "content": "Wir können den Zugriff auf unseren Service einschränken, wenn:",
+        "reasons": [
+          "Sie verstossen gegen diese Nutzungsbedingungen",
+          "Sie versuchen, unsere Systeme zu missbrauchen oder zu überlasten",
+          "Sie nehmen an Aktivitäten teil, die anderen Benutzern schaden",
+          "Gesetzliche Bestimmungen erfordern eine Zugangsbeschränkung"
+        ]
+      },
+      "updates": {
+        "title": "Service-Updates",
+        "content": "Wir können unseren Service und die Bedingungen aktualisieren:",
+        "items": [
+          "Berechnungsformeln können aktualisiert werden, um den Spieländerungen zu entsprechen",
+          "Neue Funktionen können hinzugefügt werden, um die Benutzererfahrung zu verbessern",
+          "Nutzungsbedingungen können nach Bedarf aktualisiert werden",
+          "Die fortgesetzte Nutzung bedeutet die Akzeptanz der aktualisierten Bedingungen"
+        ]
+      },
+      "liability": {
+        "title": "Haftungsbeschränkung",
+        "content": "Unsere Haftung ist wie folgt beschränkt:",
+        "items": [
+          "Der Rechner wird 'wie besehen' ohne Gewährleistungen bereitgestellt",
+          "Wir haften nicht für Verluste im Spiel, die auf unseren Berechnungen basieren",
+          "Wir garantieren keine kontinuierliche Verfügbarkeit des Dienstes",
+          "Benutzer sind für die Überprüfung der Berechnungsgenauigkeit verantwortlich"
+        ]
+      },
+      "contact": {
+        "title": "Kontaktinformationen",
+        "content": "Wenn Sie Fragen zu diesen Bedingungen haben, können Sie uns über die Kontaktmöglichkeiten auf der Website des Grow a Garden Rechners erreichen."
+      }
+    },
+    "footer": {
+      "privacy-policy": "Datenschutzrichtlinie",
+      "terms-of-service": "Nutzungsbedingungen",
+      "description": "Das genaueste und umfassendste Tool für Anbau-Garten-Spieler. Berechnen Sie präzise Erntewerte mit voller Mutationsunterstützung."
+    }
+  }

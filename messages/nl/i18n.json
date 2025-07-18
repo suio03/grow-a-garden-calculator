@@ -1,0 +1,458 @@
+{
+    "page": {
+      "seo-title": "Tuin Berekenaar Groeien | De Meest Nauwkeurige Winst Tool",
+      "seo-description": "De definitieve Grow a Garden-calculator voor precieze gewaswaarde- en winstberekening. Beschikt over real-time gegevens, volledige mutatieondersteuning en live trackers om uw Sheckles te maximaliseren.",
+      "hero": {
+        "title": "Tuin Berekenaar Groeien",
+        "subtitle": "Stop met gokken. Begin met winst maken. Krijg precieze, real-time gewaswaarden om elke oogst te maximaliseren."
+      },
+      "problemSolution": {
+        "title": "Moe van het onderschatten van je harde werk?",
+        "description": "De Grow a Garden-economie is complex. Tussen mutaties, vriendenbonussen en fluctuerende gewichten is het gemakkelijk om een ​​prijsgewas te verkopen voor een fractie van de werkelijke waarde. Onze Grow a Garden-calculator verwijdert al het giswerk en zorgt ervoor dat je de maximale waarde krijgt die je verdient, elke keer weer.",
+        "solutionTitle": "Het ultieme voordeel voor elke boer."
+      },
+      "features": {
+        "title": "Een ongeëvenaarde reeks functies",
+        "description": "We hebben deze Grow a Garden-calculator gebouwd met één doel: de meest accurate en uitgebreide tool voor Grow a Garden-spelers te zijn.",
+        "items": [
+          {
+            "icon": "calculator",
+            "title": "Nauwkeurige waardeberekening",
+            "description": "Grow a Garden-calculator gebruikt de exacte in-game formules voor basiswaarde, gewicht en bonussen, waardoor je de meest accurate verkoopprijs krijgt."
+          },
+          {
+            "icon": "sparkles",
+            "title": "Volledige mutatieondersteuning",
+            "description": "Selecteer eenvoudig elke combinatie van mutaties (Gouden, Geschokt, Nat, etc.) en onze calculator past automatisch de juiste multiplicatieve stapeling toe."
+          },
+          {
+            "icon": "users",
+            "title": "Geïntegreerde vriendenboost",
+            "description": "Gebruik de eenvoudige schuifregelaar om je vriendenbonus mee te rekenen en zie het volledige potentieel van een gezamenlijke oogst voordat je zelfs maar verkoopt."
+          },
+          {
+            "icon": "search",
+            "title": "Directe zoekdatabase",
+            "description": "Met onze complete, beeldrijke database van alle gewassen, inclusief zeldzame en evenementitems, vind je in enkele seconden wat je nodig hebt."
+          },
+          {
+            "icon": "cloudLightning",
+            "title": "Live weer- en winkelspeurders",
+            "description": "Verkrijg een strategisch voordeel door te plannen rond realtime weersomstandigheden en de huidige winkelvoorraad te kennen zonder in de game te zijn."
+          },
+          {
+            "icon": "mobile",
+            "title": "Volledig mobiel responsief",
+            "description": "Bereken waarden onderweg. Onze hele site is geoptimaliseerd voor een naadloze ervaring op je telefoon of tablet."
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Krijg de waarde van je gewas in 3 eenvoudige stappen",
+        "steps": [
+          {
+            "step": "Stap 1",
+            "title": "Ga naar de Grow a Garden Calculator",
+            "description": "Vind snel een gewas met behulp van ons doorzoekbare vervolgkeuzemenu met afbeeldingen."
+          },
+          {
+            "step": "Stap 2",
+            "title": "Voer de details in",
+            "description": "Voer het gewicht van het gewas in en vink alle mutaties aan."
+          },
+          {
+            "step": "Stap 3",
+            "title": "Zie de directe waarde",
+            "description": "Krijg direct de precieze Sheckle-waarde, klaar om de meest winstgevende verkoop te doen."
+          }
+        ]
+      },
+      "socialProof": {
+        "title": "Waarom topboeren vertrouwen op Grow a Garden Calculator",
+        "testimonials": [
+          {
+            "quote": "Dit is de enige rekenmachine die ik vertrouw. De mutatiestapeling is perfect en de live trackers zijn een game-changer voor het plannen van mijn oogsten.",
+            "author": "PixelFarmer_Pro",
+            "source": "Top 100 Speler"
+          },
+          {
+            "quote": "Ik realiseerde me dat ik duizenden Sheckles verloor door waarden te gokken. Deze tool heeft zichzelf terugverdiend in één oogst. Een absolute must-have voor elke serieuze speler.",
+            "author": "SheckleHunter",
+            "source": "GAG Communitylid"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Veelgestelde Vragen",
+        "questions": [
+          {
+            "q": "Hoe garandeer je de nauwkeurigheid van deze Grow a Garden-calculator?",
+            "a": "Ons systeem is rechtstreeks gesynchroniseerd met de gegevens en formules van de officiële game. We hebben geautomatiseerde controles die worden uitgevoerd na elke game-update om ervoor te zorgen dat onze waarden altijd 100% overeenkomen met wat je in-game ziet."
+          },
+          {
+            "q": "Zijn evenement-specifieke gewassen en mutaties inbegrepen?",
+            "a": "Ja. Onze database wordt bijgewerkt op het moment dat een nieuw evenement begint, inclusief nieuwe gewassen, uitrusting of tijdelijke mutaties, dus je bent altijd voorbereid."
+          },
+          {
+            "q": "Wat is de beste manier om de live weertracker te gebruiken?",
+            "a": "Gebruik de tracker om in te loggen net voor een onweer om je kansen op het verkrijgen van de extreem waardevolle 'Geschokte' mutatie op je gewassen te maximaliseren."
+          },
+          {
+            "q": "Is Grow a Garden-calculator gratis?",
+            "a": "Ja, Grow a Garden-calculator is gratis te gebruiken. We hebben geen betaling of aanmelding nodig om onze calculator te gebruiken."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "Klaar om je winst te maximaliseren?",
+        "description": "Maak deze pagina nu favoriet en maak het je go-to tool voor elke oogst. Stop met het achterlaten van Sheckles.",
+        "buttonText": "Bereken mijn eerste gewas"
+      },
+      "crop-section": {
+        "title": "Gewassectie",
+        "details": "Details",
+        "search-placeholder": "Zoek naar een gewas..."
+      },
+      "live-results": {
+        "title": "Live resultaten",
+        "crop-name": "Gewas",
+        "quantity": "Hoeveelheid",
+        "mutations": "Mutaties",
+        "weight": "Gewicht"
+      },
+      "quick-controls": {
+        "title": "Snelle bediening",
+        "weight": "Gewicht",
+        "friend-boost": "Vriendenboost",
+        "quantity": "Hoeveelheid"
+      },
+      "mutations": {
+        "title": "Mutaties",
+        "show-advanced": "Geavanceerd tonen",
+        "hide-advanced": "Geavanceerd verbergen",
+        "search-placeholder": "Zoek naar een mutatie...",
+        "max-all": "Alles Max",
+        "Growth": "Groei",
+        "temperature": "Temperatuur",
+        "environmental": "Milieu",
+        "no-mutations-selected": "Geen mutaties geselecteerd • Klik op &ldquo;Geavanceerd tonen&rdquo; om te configureren"
+      }
+    },
+    "privacy": {
+      "seo-title": "Privacybeleid | Tuin Berekenaar Groeien",
+      "seo-description": "Ontdek hoe Grow a Garden Calculator uw gegevens verzamelt, gebruikt en beschermt wanneer u onze gratis tool voor het berekenen van gewaswaarden gebruikt.",
+      "title": "Privacybeleid",
+      "last-updated": "Laatst bijgewerkt: juli 2025",
+      "introduction": {
+        "title": "Inleiding",
+        "content": "Dit Privacybeleid beschrijft hoe Grow a Garden Calculator uw gegevens verzamelt, gebruikt en beschermt wanneer u onze gratis tool voor het berekenen van gewaswaarden gebruikt. We zetten ons in voor de bescherming van uw privacy en zijn transparant over onze datapraktijken."
+      },
+      "information-we-collect": {
+        "title": "Informatie die we verzamelen",
+        "personal-data": {
+          "title": "Persoonlijke gegevens",
+          "content": "Grow a Garden Calculator verzamelt, bewaart of verwerkt geen persoonlijke informatie. We hebben geen registratie, accounts of persoonlijke gegevens nodig om onze calculator te gebruiken.",
+          "items": [
+            "Geen e-mailadressen, namen of contactgegevens",
+            "Geen accountcreatie of gebruikersprofielen",
+            "Geen persoonlijke identificatiegegevens",
+            "Geen betalingsinformatie (onze tool is volledig gratis)"
+          ]
+        },
+        "service-data": {
+          "title": "Gebruiksgegevens van de calculator",
+          "content": "We slaan geen van de gegevens op die u in onze calculator invoert. Alle berekeningen worden lokaal in uw browser uitgevoerd.",
+          "items": [
+            "Gewasselecties en gewichtsinvoer worden niet opgeslagen",
+            "Mutatieselecties worden niet opgeslagen",
+            "Berekeningsresultaten worden niet geregistreerd",
+            "Alle gegevens blijven alleen in uw browsersessie"
+          ]
+        },
+        "technical-data": {
+          "title": "Technische gegevens",
+          "content": "We gebruiken Google Analytics om te begrijpen hoe onze tool wordt gebruikt en om de gebruikerservaring te verbeteren.",
+          "items": [
+            "Paginaweergaven en gebruikersinteracties",
+            "Apparaattype en browserinformatie",
+            "Geografische locatie (land/regio-niveau)",
+            "Tijd doorgebracht op de site en populaire functies"
+          ]
+        }
+      },
+      "data-usage": {
+        "title": "Hoe we uw gegevens gebruiken",
+        "service-provision": {
+          "title": "Serviceverlening",
+          "content": "We gebruiken de beperkte technische gegevens die we verzamelen om:",
+          "items": [
+            "Ervoor te zorgen dat onze calculator correct werkt op verschillende apparaten",
+            "Laadtijden en prestaties te optimaliseren",
+            "Technische problemen te identificeren en op te lossen",
+            "Nauwkeurige gewaswaarde berekeningen te leveren"
+          ]
+        },
+        "service-improvement": {
+          "title": "Serviceverbetering",
+          "content": "Analytische gegevens helpen ons de Grow a Garden Calculator te verbeteren door:",
+          "items": [
+            "Inzicht in welke functies het populairst zijn",
+            "Verbeterpunten te identificeren",
+            "Nieuwe functies en lay-outs te testen",
+            "Zorgen voor mobiele compatibiliteit en responsiviteit"
+          ]
+        }
+      },
+      "data-retention": {
+        "title": "Gegevensbewaring",
+        "content": "Omdat we uw calculator-invoer niet opslaan, zijn er geen persoonlijke gegevens die we hoeven te bewaren. Google Analytics-gegevens worden bewaard in overeenstemming met het standaardbeleid van Google:",
+        "items": [
+          "Analytics-gegevens worden automatisch verwijderd na 26 maanden",
+          "U kunt zich afmelden voor het volgen van analytics via browserinstellingen",
+          "Er worden nooit persoonlijke berekeningsgegevens door ons opgeslagen",
+          "Alle calculatorinvoer wordt lokaal in uw browser verwerkt"
+        ]
+      },
+      "data-sharing": {
+        "title": "Gegevens delen",
+        "content": "We verkopen, verhandelen of delen uw gegevens niet met derden, behalve:",
+        "items": [
+          "Google Analytics verwerkt anonieme gebruiksstatistieken",
+          "Er worden geen persoonlijke gegevens met iemand gedeeld",
+          "Er worden geen berekeningsgegevens verzonden naar externe services",
+          "Er zijn geen marketing- of advertentiepartnerschappen waarbij gebruikersgegevens betrokken zijn"
+        ]
+      },
+      "data-protection-rights": {
+        "title": "Uw rechten op gegevensbescherming",
+        "content": "Aangezien we geen persoonlijke gegevens verzamelen, zijn de meeste zorgen over gegevensbescherming niet van toepassing. U heeft echter de volgende rechten:",
+        "items": [
+          "Recht om u af te melden voor het volgen van Google Analytics",
+          "Recht om de calculator te gebruiken zonder enige gegevensverzameling",
+          "Recht om uw browsergegevens op elk gewenst moment te wissen",
+          "Recht om adblockers of privacytools te gebruiken"
+        ]
+      },
+      "content-generation-privacy": {
+        "title": "Privacy van de calculator",
+        "content": "Uw gewasberekeningen zijn volledig privé:",
+        "items": [
+          "Alle berekeningen vinden lokaal in uw browser plaats",
+          "Er worden geen gewasgegevens naar onze servers verzonden",
+          "Er wordt geen berekeningsgeschiedenis opgeslagen",
+          "Uw landbouwstrategieën blijven volledig privé"
+        ]
+      },
+      "childrens-privacy": {
+        "title": "Privacy van kinderen",
+        "content": "Onze calculator is geschikt voor alle leeftijden. Omdat we geen persoonlijke informatie verzamelen, zijn er geen speciale privacyzorgen voor kinderen die onze tool gebruiken. Ouders kunnen kinderen veilig de calculator laten gebruiken zonder zorgen over gegevensverzameling."
+      },
+      "security-measures": {
+        "title": "Beveiligingsmaatregelen",
+        "content": "We implementeren passende beveiligingsmaatregelen om onze service te beschermen:",
+        "items": [
+          "HTTPS-encryptie voor alle verbindingen",
+          "Regelmatige beveiligingsupdates en monitoring",
+          "Geen opslag van gevoelige gebruikersgegevens",
+          "Beveiligde hostinginfrastructuur"
+        ]
+      },
+      "data-protection-practices": {
+        "title": "Praktijken voor gegevensbescherming",
+        "content": "Onze privacygerichte aanpak omvat:",
+        "items": [
+          "Minimale gegevensverzameling door ontwerp",
+          "Geen onnodige tracking of cookies",
+          "Lokale verwerking van alle berekeningen",
+          "Transparante privacypraktijken"
+        ]
+      },
+      "international-data-transfers": {
+        "title": "Internationale gegevensoverdrachten",
+        "content": "De enige gegevensoverdracht omvat Google Analytics:",
+        "items": [
+          "Anonieme analysegegevens kunnen wereldwijd door Google worden verwerkt",
+          "Er worden geen persoonlijke gegevens de internationale grenzen overschreden",
+          "Google Analytics voldoet aan internationale wetten inzake gegevensbescherming",
+          "U kunt zich op elk moment afmelden voor analytics"
+        ]
+      },
+      "policy-updates": {
+        "title": "Beleidupdates",
+        "content": "We kunnen dit privacybeleid af en toe bijwerken:",
+        "items": [
+          "Updates worden op deze pagina geplaatst met een nieuwe datum",
+          "Belangrijke wijzigingen worden duidelijk gemarkeerd",
+          "Voortgezet gebruik van de calculator duidt op acceptatie",
+          "We zullen altijd onze privacygerichte aanpak behouden"
+        ]
+      },
+      "your-rights": {
+        "title": "Uw rechten uitoefenen",
+        "content": "Om uw privacyrechten uit te oefenen:",
+        "items": [
+          "Gebruik browserprivacy-instellingen om analytics te beheren",
+          "Wis uw browsergegevens om alle sporen te verwijderen",
+          "Gebruik privé/incognito browsen voor maximale privacy",
+          "Neem contact met ons op via de calculator als u privacyzorgen heeft"
+        ]
+      },
+      "contact-information": {
+        "title": "Contactgegevens",
+        "content": "Als u vragen heeft over dit privacybeleid of onze gegevenspraktijken, kunt u ons bereiken via de contactopties die beschikbaar zijn op de Grow a Garden Calculator-website."
+      }
+    },
+    "tos": {
+      "seo-title": "Servicevoorwaarden | Tuin Berekenaar Groeien",
+      "seo-description": "Ontdek hoe Grow a Garden Calculator uw gegevens verzamelt, gebruikt en beschermt wanneer u onze gratis tool voor het berekenen van gewaswaarden gebruikt.",
+      "title": "Servicevoorwaarden",
+      "last-updated": "Laatst bijgewerkt: juli 2025",
+      "acceptance": {
+        "title": "Aanvaarding van de voorwaarden",
+        "content": "Door de Grow a Garden Calculator te bezoeken en te gebruiken, accepteert en stemt u ermee in gebonden te zijn aan de voorwaarden en bepalingen van deze overeenkomst. Als u niet akkoord gaat met het bovenstaande, gebruik deze service dan niet."
+      },
+      "description": {
+        "title": "Servicebeschrijving",
+        "content": "Grow a Garden Calculator is een gratis tool waarmee spelers gewaswaarden kunnen berekenen en hun landbouwstrategieën kunnen optimaliseren. Onze service omvat:",
+        "features": [
+          "Nauwkeurige gewaswaarde berekeningen op basis van gewicht en mutaties",
+          "Real-time berekening van vriendenbonussen en vermenigvuldigers",
+          "Uitgebreide database met gewassen en mutaties",
+          "Mobiel responsief ontwerp voor onderweg berekeningen",
+          "Gratis toegang tot alle berekeningsfuncties"
+        ]
+      },
+      "accounts": {
+        "title": "Gebruikersaccounts",
+        "content": "Grow a Garden Calculator vereist geen gebruikersaccounts of registratie:",
+        "requirements": [
+          "Geen registratie of aanmelding vereist",
+          "Geen persoonlijke informatie nodig om de calculator te gebruiken",
+          "Alle functies zijn onmiddellijk beschikbaar voor alle gebruikers",
+          "Geen accountbeheer of wachtwoordvereisten"
+        ]
+      },
+      "fees": {
+        "title": "Kosten en betalingen",
+        "payment-terms": {
+          "title": "Betalingsvoorwaarden",
+          "items": [
+            "Grow a Garden Calculator is volledig gratis te gebruiken",
+            "Geen abonnementskosten, premiumfuncties of verborgen kosten",
+            "Er wordt nooit betalingsinformatie verzameld",
+            "Alle berekeningsfuncties zijn gratis beschikbaar"
+          ]
+        },
+        "refund-policy": {
+          "title": "Restitutiebeleid",
+          "items": [
+            "Aangezien onze service gratis is, is geen restitutie van toepassing",
+            "Er worden nooit kosten in rekening gebracht voor het gebruik van de calculator",
+            "Er bestaan ​​geen premium functies of betaalde upgrades",
+            "Alle gebruikers hebben toegang tot de volledige functieset"
+          ]
+        }
+      },
+      "acceptable-use": {
+        "title": "Aanvaardbaar gebruik",
+        "content": "U stemt ermee in de Grow a Garden Calculator op een verantwoorde manier te gebruiken en niet:",
+        "restrictions": [
+          "Gebruik de service voor enig onwettig of ongeautoriseerd doel",
+          "Probeer de service te verstoren of te verstoren",
+          "Gebruik geautomatiseerde tools om onze servers te overbelasten",
+          "Reverse engineering of poging tot extractie van onze berekeningsformules",
+          "Verteken de bron of nauwkeurigheid van berekeningsresultaten"
+        ]
+      },
+      "intellectual-property": {
+        "title": "Intellectueel eigendom",
+        "service-ownership": {
+          "title": "Eigendom van de service",
+          "items": [
+            "Het Grow a Garden Calculator-ontwerp en de code zijn onze eigendom",
+            "Berekeningsalgoritmen en formules zijn ons intellectuele eigendom",
+            "Website-ontwerp, lay-out en gebruikersinterface zijn beschermd",
+            "Onze branding en logo zijn ons eigendom"
+          ]
+        },
+        "user-rights": {
+          "title": "Uw rechten",
+          "items": [
+            "U mag de calculator gebruiken voor persoonlijke gamingdoeleinden",
+            "U mag berekeningsresultaten delen met andere spelers",
+            "U mag naar onze tool verwijzen in gamingdiscussies",
+            "U mag onze code of ons ontwerp niet kopiëren of reproduceren"
+          ]
+        }
+      },
+      "content-guidelines": {
+        "title": "Richtlijnen voor inhoud",
+        "content": "Tijdens het gebruik van onze calculator kunt u:",
+        "requirements": [
+          "Gebruik accurate gewichts- en mutatiegegevens voor zinvolle resultaten",
+          "Begrijp dat berekeningen schattingen zijn op basis van de huidige gamemechanica",
+          "Controleer belangrijke berekeningen voordat u belangrijke beslissingen in de game neemt",
+          "Meld eventuele berekeningsfouten of bugs die u ontdekt"
+        ]
+      },
+      "limitations": {
+        "title": "Servicebeperkingen",
+        "content": "Begrijp deze beperkingen van onze service:",
+        "items": [
+          "Berekeningen zijn gebaseerd op de huidige gamemechanica en kunnen veranderen",
+          "We kunnen geen 100% nauwkeurigheid garanderen vanwege mogelijke game-updates",
+          "De service is mogelijk af en toe niet beschikbaar voor onderhoud",
+          "Er is een internetverbinding vereist om toegang te krijgen tot de calculator"
+        ]
+      },
+      "privacy": {
+        "title": "Privacy",
+        "content": "Uw privacy is belangrijk voor ons:",
+        "items": [
+          "We slaan uw berekeningsinvoer niet op",
+          "Er is geen persoonlijke informatie vereist of verzameld",
+          "Alleen anonieme analyses worden gebruikt om de service te verbeteren",
+          "Zie ons privacybeleid voor volledige details"
+        ]
+      },
+      "termination": {
+        "title": "Beëindiging",
+        "content": "We kunnen de toegang tot onze service beperken als:",
+        "reasons": [
+          "U schendt deze servicevoorwaarden",
+          "U probeert onze systemen te misbruiken of te overbelasten",
+          "U neemt deel aan activiteiten die andere gebruikers schaden",
+          "Wettelijke vereisten noodzaken de beperking van de toegang"
+        ]
+      },
+      "updates": {
+        "title": "Service-updates",
+        "content": "We kunnen onze service en voorwaarden bijwerken:",
+        "items": [
+          "Berekeningsformules kunnen worden bijgewerkt om overeen te stemmen met gameveranderingen",
+          "Nieuwe functies kunnen worden toegevoegd om de gebruikerservaring te verbeteren",
+          "Servicevoorwaarden kunnen zo nodig worden bijgewerkt",
+          "Voortgezet gebruik duidt op acceptatie van bijgewerkte voorwaarden"
+        ]
+      },
+      "liability": {
+        "title": "Beperking van aansprakelijkheid",
+        "content": "Onze aansprakelijkheid is als volgt beperkt:",
+        "items": [
+          "De calculator wordt 'as is' geleverd zonder garanties",
+          "Wij zijn niet aansprakelijk voor in-game verliezen op basis van onze berekeningen",
+          "We garanderen niet de continue beschikbaarheid van de service",
+          "Gebruikers zijn verantwoordelijk voor het verifiëren van de nauwkeurigheid van de berekening"
+        ]
+      },
+      "contact": {
+        "title": "Contactinformatie",
+        "content": "Als u vragen heeft over deze voorwaarden, kunt u ons bereiken via de contactopties die beschikbaar zijn op de Grow a Garden Calculator-website."
+      }
+    },
+    "footer": {
+      "privacy-policy": "Privacybeleid",
+      "terms-of-service": "Servicevoorwaarden",
+      "description": "De meest accurate en uitgebreide tool voor Grow a Garden-spelers. Bereken precieze gewaswaarden met volledige mutatieondersteuning."
+    }
+  }

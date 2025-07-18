@@ -1,0 +1,458 @@
+{
+    "page": {
+        "seo-title": "Grow a Garden Calculator | The Most Accurate Profit Tool",
+        "seo-description": "The definitive Grow a Garden calculator for precise crop value and profit calculation. Features real-time data, full mutation support, and live trackers to maximize your Sheckles.",
+        "hero": {
+            "title": "Grow a Garden Calculator",
+            "subtitle": "Stop guessing. Start profiting. Get precise, real-time crop values to maximize every single harvest."
+        },
+        "problemSolution": {
+            "title": "Tired of Under-Selling Your Hard Work?",
+            "description": "The Grow a Garden economy is complex. Between mutations, friend bonuses, and fluctuating weights, it's easy to sell a prize crop for a fraction of its true worth. Our Grow a Garden calculator removes all guesswork, ensuring you get the maximum value you deserve, every time.",
+            "solutionTitle": "The Ultimate Advantage for Every Farmer."
+        },
+        "features": {
+            "title": "An Unmatched Set of Features",
+            "description": "We built this Grow a Garden calculator with one goal: to be the most accurate and comprehensive tool for Grow a Garden players.",
+            "items": [
+                {
+                    "icon": "calculator",
+                    "title": "Precision Value Calculation",
+                    "description": "Grow a Garden calculator uses the exact in-game formulas for base value, weight, and bonuses, providing you with the most accurate sale price possible."
+                },
+                {
+                    "icon": "sparkles",
+                    "title": "Full Mutation Support",
+                    "description": "Easily select any combination of mutations (Golden, Shocked, Wet, etc.) and our calculator will automatically apply the correct multiplicative stacking."
+                },
+                {
+                    "icon": "users",
+                    "title": "Integrated Friend Boost",
+                    "description": "Use the simple slider to factor in your friend bonus and see the full potential of a collaborative harvest before you even sell."
+                },
+                {
+                    "icon": "search",
+                    "title": "Instant Search Database",
+                    "description": "Our complete, image-rich database of all crops, including rare and event items, lets you find what you need in seconds."
+                },
+                {
+                    "icon": "cloudLightning",
+                    "title": "Live Weather & Shop Trackers",
+                    "description": "Gain a strategic edge by planning around real-time weather events and knowing the current shop inventory without being in-game."
+                },
+                {
+                    "icon": "mobile",
+                    "title": "Fully Mobile Responsive",
+                    "description": "Calculate values on the go. Our entire site is optimized for a seamless experience on your phone or tablet."
+                }
+            ]
+        },
+        "howItWorks": {
+            "title": "Get Your Crop's Value in 3 Simple Steps",
+            "steps": [
+                {
+                    "step": "Step 1",
+                    "title": "Go to the Grow a Garden Calculator",
+                    "description": "Quickly find any crop using our searchable dropdown menu with images."
+                },
+                {
+                    "step": "Step 2",
+                    "title": "Enter the Details",
+                    "description": "Input the crop's weight and check off all of its mutations."
+                },
+                {
+                    "step": "Step 3",
+                    "title": "See the Instant Value",
+                    "description": "Get the precise Sheckle value instantly, ready for you to make the most profitable sale."
+                }
+            ]
+        },
+        "socialProof": {
+            "title": "Why Top Farmers Rely On Grow a Garden Calculator",
+            "testimonials": [
+                {
+                    "quote": "This is the only calculator I trust. The mutation stacking is perfect and the live trackers are a game-changer for planning my harvests.",
+                    "author": "PixelFarmer_Pro",
+                    "source": "Top 100 Player"
+                },
+                {
+                    "quote": "I realized I was losing thousands of Sheckles by guessing values. This tool paid for itself in one harvest. An absolute must-have for any serious player.",
+                    "author": "SheckleHunter",
+                    "source": "GAG Community Member"
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "questions": [
+                {
+                    "q": "How do you guarantee the accuracy of this Grow a Garden calculator?",
+                    "a": "Our system is directly synchronized with the official game's data and formulas. We have automated checks that run after every game update to ensure our values are always 100% aligned with what you see in-game."
+                },
+                {
+                    "q": "Are event-specific crops and mutations included?",
+                    "a": "Yes. Our database is updated the moment a new event starts, including any new crops, gear, or temporary mutations, so you're always prepared."
+                },
+                {
+                    "q": "What's the best way to use the live weather tracker?",
+                    "a": "Use the tracker to log on just before a thunderstorm to maximize your chances of getting the extremely valuable 'Shocked' mutation on your crops."
+                },
+                {
+                    "q": "Is Grow a Garden calculator free?",
+                    "a": "Yes, Grow a Garden calculator is free to use. We do not require any payment or signup to use our calculator."
+                }
+            ]
+        },
+        "finalCta": {
+            "title": "Ready to Maximize Your Profits?",
+            "description": "Bookmark this page now and make it your go-to tool for every harvest. Stop leaving Sheckles on the table.",
+            "buttonText": "Calculate My First Crop"
+        },
+        "crop-section": {
+            "title": "Crop Section",
+            "details": "Details",
+            "search-placeholder": "Search for a crop..."
+        },
+        "live-results": {
+            "title": "Live Results",
+            "crop-name": "Crop",
+            "quantity": "Quantity",
+            "mutations": "Mutations",
+            "weight": "Weight"
+        },
+        "quick-controls": {
+            "title": "Quick Controls",
+            "weight": "Weight",
+            "friend-boost": "Friend Boost",
+            "quantity": "Quantity"
+        },
+        "mutations": {
+            "title": "Mutations",
+            "show-advanced": "Show Advanced",
+            "hide-advanced": "Hide Advanced",
+            "search-placeholder": "Search for a mutation...",
+            "max-all": "Max All",
+            "Growth": "Growth",
+            "temperature": "Temperature",
+            "environmental": "Environmental",
+            "no-mutations-selected": "No mutations selected • Click &ldquo;Show Advanced&rdquo; to configure"
+        }
+    },
+    "privacy": {
+        "seo-title": "Privacy Policy | Grow a Garden Calculator",
+        "seo-description": "Learn how Grow a Garden Calculator collects, uses, and protects your information when you use our free crop value calculation tool.",
+        "title": "Privacy Policy",
+        "last-updated": "Last updated: July 2025",
+        "introduction": {
+            "title": "Introduction",
+            "content": "This Privacy Policy describes how Grow a Garden Calculator collects, uses, and protects your information when you use our free crop value calculation tool. We are committed to protecting your privacy and being transparent about our data practices."
+        },
+        "information-we-collect": {
+            "title": "Information We Collect",
+            "personal-data": {
+                "title": "Personal Data",
+                "content": "Grow a Garden Calculator does not collect, store, or process any personal information. We do not require registration, accounts, or any personal details to use our calculator.",
+                "items": [
+                    "No email addresses, names, or contact information",
+                    "No account creation or user profiles",
+                    "No personal identification data",
+                    "No payment information (our tool is completely free)"
+                ]
+            },
+            "service-data": {
+                "title": "Calculator Usage Data",
+                "content": "We do not store any of the data you input into our calculator. All calculations are performed locally in your browser.",
+                "items": [
+                    "Crop selections and weight inputs are not saved",
+                    "Mutation selections are not stored",
+                    "Calculation results are not recorded",
+                    "All data remains in your browser session only"
+                ]
+            },
+            "technical-data": {
+                "title": "Technical Data",
+                "content": "We use Google Analytics to understand how our tool is used and to improve the user experience.",
+                "items": [
+                    "Page views and user interactions",
+                    "Device type and browser information",
+                    "Geographic location (country/region level)",
+                    "Time spent on site and popular features"
+                ]
+            }
+        },
+        "data-usage": {
+            "title": "How We Use Your Information",
+            "service-provision": {
+                "title": "Service Provision",
+                "content": "We use the limited technical data we collect to:",
+                "items": [
+                    "Ensure our calculator works properly across different devices",
+                    "Optimize loading times and performance",
+                    "Identify and fix technical issues",
+                    "Provide accurate crop value calculations"
+                ]
+            },
+            "service-improvement": {
+                "title": "Service Improvement",
+                "content": "Analytics data helps us improve the Grow a Garden Calculator by:",
+                "items": [
+                    "Understanding which features are most popular",
+                    "Identifying areas for improvement",
+                    "Testing new features and layouts",
+                    "Ensuring mobile compatibility and responsiveness"
+                ]
+            }
+        },
+        "data-retention": {
+            "title": "Data Retention",
+            "content": "Since we don't store your calculator inputs, there's no personal data to retain. Google Analytics data is retained according to Google's standard policies:",
+            "items": [
+                "Analytics data is automatically deleted after 26 months",
+                "You can opt out of analytics tracking using browser settings",
+                "No personal calculation data is ever stored by us",
+                "All calculator inputs are processed locally in your browser"
+            ]
+        },
+        "data-sharing": {
+            "title": "Data Sharing",
+            "content": "We do not sell, trade, or share your information with third parties, except:",
+            "items": [
+                "Google Analytics processes anonymous usage statistics",
+                "No personal information is shared with anyone",
+                "No calculation data is transmitted to external services",
+                "No marketing or advertising partnerships involve user data"
+            ]
+        },
+        "data-protection-rights": {
+            "title": "Your Data Protection Rights",
+            "content": "Since we don't collect personal data, most data protection concerns don't apply. However, you have these rights:",
+            "items": [
+                "Right to opt out of Google Analytics tracking",
+                "Right to use the calculator without any data collection",
+                "Right to clear your browser data at any time",
+                "Right to use ad blockers or privacy tools"
+            ]
+        },
+        "content-generation-privacy": {
+            "title": "Calculator Privacy",
+            "content": "Your crop calculations are completely private:",
+            "items": [
+                "All calculations happen in your browser locally",
+                "No crop data is sent to our servers",
+                "No calculation history is stored",
+                "Your farming strategies remain completely private"
+            ]
+        },
+        "childrens-privacy": {
+            "title": "Children's Privacy",
+            "content": "Our calculator is suitable for all ages. Since we don't collect personal information, there are no special privacy concerns for children using our tool. Parents can safely allow children to use the calculator without any data collection worries."
+        },
+        "security-measures": {
+            "title": "Security Measures",
+            "content": "We implement appropriate security measures to protect our service:",
+            "items": [
+                "HTTPS encryption for all connections",
+                "Regular security updates and monitoring",
+                "No storage of sensitive user data",
+                "Secure hosting infrastructure"
+            ]
+        },
+        "data-protection-practices": {
+            "title": "Data Protection Practices",
+            "content": "Our privacy-first approach includes:",
+            "items": [
+                "Minimal data collection by design",
+                "No unnecessary tracking or cookies",
+                "Local processing of all calculations",
+                "Transparent privacy practices"
+            ]
+        },
+        "international-data-transfers": {
+            "title": "International Data Transfers",
+            "content": "The only data transfer involves Google Analytics:",
+            "items": [
+                "Anonymous analytics data may be processed globally by Google",
+                "No personal information crosses international borders",
+                "Google Analytics complies with international data protection laws",
+                "You can opt out of analytics at any time"
+            ]
+        },
+        "policy-updates": {
+            "title": "Policy Updates",
+            "content": "We may update this privacy policy occasionally:",
+            "items": [
+                "Updates will be posted on this page with a new date",
+                "Significant changes will be clearly highlighted",
+                "Continued use of the calculator indicates acceptance",
+                "We will always maintain our privacy-first approach"
+            ]
+        },
+        "your-rights": {
+            "title": "Exercising Your Rights",
+            "content": "To exercise your privacy rights:",
+            "items": [
+                "Use browser privacy settings to control analytics",
+                "Clear your browser data to remove all traces",
+                "Use private/incognito browsing for maximum privacy",
+                "Contact us through the calculator if you have privacy concerns"
+            ]
+        },
+        "contact-information": {
+            "title": "Contact Information",
+            "content": "If you have questions about this privacy policy or our data practices, you can reach us through the contact options available on the Grow a Garden Calculator website."
+        }
+    },
+    "tos": {
+        "seo-title": "Terms of Service | Grow a Garden Calculator",
+        "seo-description": "Learn how Grow a Garden Calculator collects, uses, and protects your information when you use our free crop value calculation tool.",
+        "title": "Terms of Service",
+        "last-updated": "Last updated: July 2025",
+        "acceptance": {
+            "title": "Acceptance of Terms",
+            "content": "By accessing and using the Grow a Garden Calculator, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service."
+        },
+        "description": {
+            "title": "Service Description",
+            "content": "Grow a Garden Calculator is a free tool that helps players calculate crop values and optimize their farming strategies. Our service includes:",
+            "features": [
+                "Accurate crop value calculations based on weight and mutations",
+                "Real-time calculation of friend bonuses and multipliers",
+                "Comprehensive database of crops and mutations",
+                "Mobile-responsive design for on-the-go calculations",
+                "Free access to all calculation features"
+            ]
+        },
+        "accounts": {
+            "title": "User Accounts",
+            "content": "Grow a Garden Calculator does not require user accounts or registration:",
+            "requirements": [
+                "No registration or sign-up required",
+                "No personal information needed to use the calculator",
+                "All features are immediately available to all users",
+                "No account management or password requirements"
+            ]
+        },
+        "fees": {
+            "title": "Fees and Payments",
+            "payment-terms": {
+                "title": "Payment Terms",
+                "items": [
+                    "Grow a Garden Calculator is completely free to use",
+                    "No subscription fees, premium features, or hidden costs",
+                    "No payment information is ever collected",
+                    "All calculation features are available at no charge"
+                ]
+            },
+            "refund-policy": {
+                "title": "Refund Policy",
+                "items": [
+                    "Since our service is free, no refunds are applicable",
+                    "No charges are ever made for using the calculator",
+                    "No premium features or paid upgrades exist",
+                    "All users have access to the full feature set"
+                ]
+            }
+        },
+        "acceptable-use": {
+            "title": "Acceptable Use",
+            "content": "You agree to use the Grow a Garden Calculator responsibly and not to:",
+            "restrictions": [
+                "Use the service for any illegal or unauthorized purpose",
+                "Attempt to interfere with or disrupt the service",
+                "Use automated tools to overload our servers",
+                "Reverse engineer or attempt to extract our calculation formulas",
+                "Misrepresent the source or accuracy of calculation results"
+            ]
+        },
+        "intellectual-property": {
+            "title": "Intellectual Property",
+            "service-ownership": {
+                "title": "Service Ownership",
+                "items": [
+                    "The Grow a Garden Calculator design and code are our property",
+                    "Calculation algorithms and formulas are our intellectual property",
+                    "Website design, layout, and user interface are protected",
+                    "Our branding and logo are owned by us"
+                ]
+            },
+            "user-rights": {
+                "title": "Your Rights",
+                "items": [
+                    "You may use the calculator for personal gaming purposes",
+                    "You may share calculation results with other players",
+                    "You may reference our tool in gaming discussions",
+                    "You may not copy or reproduce our code or design"
+                ]
+            }
+        },
+        "content-guidelines": {
+            "title": "Content Guidelines",
+            "content": "While using our calculator, please:",
+            "requirements": [
+                "Use accurate weight and mutation data for meaningful results",
+                "Understand that calculations are estimates based on current game mechanics",
+                "Verify important calculations before making significant in-game decisions",
+                "Report any calculation errors or bugs you discover"
+            ]
+        },
+        "limitations": {
+            "title": "Service Limitations",
+            "content": "Please understand these limitations of our service:",
+            "items": [
+                "Calculations are based on current game mechanics and may change",
+                "We cannot guarantee 100% accuracy due to potential game updates",
+                "The service may occasionally be unavailable for maintenance",
+                "Internet connection is required to access the calculator"
+            ]
+        },
+        "privacy": {
+            "title": "Privacy",
+            "content": "Your privacy is important to us:",
+            "items": [
+                "We do not store your calculation inputs",
+                "No personal information is required or collected",
+                "Only anonymous analytics are used to improve the service",
+                "See our Privacy Policy for complete details"
+            ]
+        },
+        "termination": {
+            "title": "Termination",
+            "content": "We may restrict access to our service if:",
+            "reasons": [
+                "You violate these terms of service",
+                "You attempt to abuse or overload our systems",
+                "You engage in activities that harm other users",
+                "Legal requirements necessitate restriction of access"
+            ]
+        },
+        "updates": {
+            "title": "Service Updates",
+            "content": "We may update our service and terms:",
+            "items": [
+                "Calculation formulas may be updated to match game changes",
+                "New features may be added to improve user experience",
+                "Terms of service may be updated as needed",
+                "Continued use indicates acceptance of updated terms"
+            ]
+        },
+        "liability": {
+            "title": "Limitation of Liability",
+            "content": "Our liability is limited as follows:",
+            "items": [
+                "The calculator is provided 'as is' without warranties",
+                "We are not liable for any in-game losses based on our calculations",
+                "We do not guarantee continuous availability of the service",
+                "Users are responsible for verifying calculation accuracy"
+            ]
+        },
+        "contact": {
+            "title": "Contact Information",
+            "content": "If you have questions about these terms, you can reach us through the contact options available on the Grow a Garden Calculator website."
+        }
+    },
+    "footer": {
+        "privacy-policy": "Privacy Policy",
+        "terms-of-service": "Terms of Service",
+        "description": "The most accurate and comprehensive tool for Grow a Garden players. Calculate precise crop values with full mutation support."
+    }
+}

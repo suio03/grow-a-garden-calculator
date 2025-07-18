@@ -1,0 +1,47 @@
+{
+  "defaults": {
+    "selectedCrop": "carrot",
+    "weight": 0.26,
+    "quantity": 1,
+    "friendBoost": 0,
+    "mutations": {
+      "growth": "Default",
+      "temperature": "Default",
+      "environmental": []
+    }
+  },
+  "friendBoost": {
+    "min": 0,
+    "max": 50,
+    "step": 10
+  },
+  "inputs": {
+    "weight": {
+      "min": 0,
+      "step": 0.01
+    },
+    "quantity": {
+      "min": 1,
+      "step": 1
+    }
+  },
+  "ui": {
+    "cropGrid": {
+      "mobile": "grid-cols-3",
+      "tablet": "sm:grid-cols-3", 
+      "desktop": "lg:grid-cols-3"
+    },
+    "environmentalMutations": {
+      "mobile": "grid-cols-2",
+      "tablet": "sm:grid-cols-3",
+      "desktop": "md:grid-cols-4",
+      "maxHeight": "max-h-64"
+    }
+  },
+  "app": {
+    "title": "Grow A Garden Calculator",
+    "description": "Calculate the value of your crops in Roblox Grow A Garden.",
+    "updateNote": "Update to 114.0 - Giant Mimi support, more profits, start maximizing your Sheckles earnings!",
+    "currency": "₡"
+  }
+} 
