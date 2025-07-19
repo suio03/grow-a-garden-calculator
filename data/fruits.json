@@ -12,7 +12,7 @@
     "manuka", "mint", "moonblossom", "moonflower", "moonglow", "moonmango", "moonmelon", "mushroom",
     "nectarine", "nectarshade", "nectarthorn", "nightshade", "orangetulip", "papaya", "paradisepetal",
     "parasolflower", "passionfruit", "peacelily", "peach", "pear", "pepper", "pineapple", "pinklily",
-    "pitcherplant", "pricklypear", "pumpkin", "purpledahlia", "rafflesia", "raspberry", "redlolipop",
+    "pitcherplant", "pricklypear", "pumpkin", "purpledahlia", "rafflesia", "raspberry", "redlollipop",
     "rose", "rosydelight", "soulfruit", "starfruit", "stonebite", "strawberry", "succulent",
     "sugarapple", "suncoil", "sunflower", "tomato", "travelersfruit", "venusflytrap", "violetcorn",
     "watermelon", "wildcarrot"
@@ -23,135 +23,684 @@
       "minimumWeight": 5.22
     },
     "amberspine": {
-      "minimumValue": 15,
-      "minimumWeight": 0.26
+      "minimumValue": 55000,
+      "minimumWeight": 6
     },
     "apple": {
-      "minimumValue": 15,
-      "minimumWeight": 0.26
+      "minimumValue": 248,
+      "minimumWeight": 2.85
     },
     "avocado": {
-      "minimumValue": 15,
-      "minimumWeight": 0.26
+      "minimumValue": 316,
+      "minimumWeight": 6.18
     },
     "bamboo": {
-      "minimumValue": 15,
-      "minimumWeight": 0.26
+      "minimumValue": 3610,
+      "minimumWeight": 3.8
     },
     "banana": {
+      "minimumValue": 1579,
+      "minimumWeight": 1.43
+    },
+    "beanstalk": {
+      "minimumValue": 25270,
+      "minimumWeight": 9.5
+    },
+    "beebalm": {
+      "minimumValue": 16245,
+      "minimumWeight": 0.95
+    },
+    "bellpepper": { 
+      "minimumValue": 4964,
+      "minimumWeight": 7.6
+    },
+    "bendboo": {
+      "minimumValue": 139888,
+      "minimumWeight": 17.1
+    },
+    "bloodbanana": {
+      "minimumValue": 5415,
+      "minimumWeight": 1.43
+    },
+    "blueberry": {
+      "minimumValue": 18,
+      "minimumWeight": 0.19
+    },
+    "boneblossom": {
+      "minimumValue": 180500,
+      "minimumWeight": 2.85
+    },
+    "boneboo": {
+      "minimumValue": 127380,
+      "minimumWeight": 14.25
+    },
+    "burningbud": {
+      "minimumValue": 63175,
+      "minimumWeight": 11.4
+    },
+    "cacao": {
+      "minimumValue": 10830,
+      "minimumWeight": 7.6
+    },
+    "cactus": {
+      "minimumValue": 3069,
+      "minimumWeight": 6.65
+    },
+    "candyblossom": {
+      "minimumValue": 90250,
+      "minimumWeight": 2.85
+    },
+    "candysunflower": {
+      "minimumValue": 72200,
+      "minimumWeight": 1.43
+    },
+    "cantaloupe": {
+      "minimumValue": 30685,
+      "minimumWeight": 5.23
+    },
+    "carrot": {
+      "minimumValue": 18,
+      "minimumWeight": 0.26
+    },
+    "cauliflower": {
+      "minimumValue": 36,
+      "minimumWeight": 4.75
+    },
+    "celestiberry": {
+      "minimumValue": 9025,
+      "minimumWeight": 1.9
+    },
+    "chocolatecarrot": {
+      "minimumValue": 9928,
+      "minimumWeight": 0.26
+    },
+    "coconut": {
+      "minimumValue": 361,
+      "minimumWeight": 13.30
+    },
+    "cocovine": {
+      "minimumValue": 60166,
+      "minimumWeight": 13.30
+    },
+    "corn": {
+      "minimumValue": 36,
+      "minimumWeight": 1.9
+    },
+    "cranberry": {
+      "minimumValue": 3159,
+      "minimumWeight": 0.95
+    },
+    "crocus": {
+      "minimumValue": 27075,
+      "minimumWeight": 0.26
+    },
+    "cursedfruit": {
+      "minimumValue": 23239,
+      "minimumWeight": 28.50
+    },
+    "daffodil": {
+      "minimumValue": 903,
+      "minimumWeight": 0.19
+    },
+    "dandelion": {
+      "minimumValue": 45125,
+      "minimumWeight": 3.8,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "delphinium": {
+      "minimumValue": 21660,
+      "minimumWeight": 0.57,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "dragonfruit": {
+      "minimumValue": 4287,
+      "minimumWeight": 11.4,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "dragonpepper": {
+      "minimumValue": 80221,
+      "minimumWeight": 5.7,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "durian": {
+      "minimumValue": 6769,
+      "minimumWeight": 7.6,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "easteregg": {
+      "minimumValue": 2256,
+      "minimumWeight": 2.85,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "eggplant": {
+      "minimumValue": 10830,
+      "minimumWeight": 4.75,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "elephantears": {
+      "minimumValue": 69493,
+      "minimumWeight": 13.54,
+      "tier": "prismatic",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "emberlily": {
+      "minimumValue": 60166,
+      "minimumWeight": 10.6,
+      "tier": "prismatic",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "feijoa": {
+      "minimumValue": 11733,
+      "minimumWeight": 9.5,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "fireflyfern": {
+      "minimumValue": 54800,
+      "minimumWeight": 3.8,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "fireworkflower": {
+      "minimumValue": 136278,
+      "minimumWeight": 19,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "fossilight": {
+      "minimumValue": 79420,
+      "minimumWeight": 4,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "foxglove": {
+      "minimumValue": 18050,
+      "minimumWeight": 1.9,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "giantpinecone": {
+      "minimumValue": 64980,
+      "minimumWeight": 3,
+      "tier": "prismatic",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "glowshroom": {
+      "minimumValue": 271,
+      "minimumWeight": 0.71,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "grandvolcania": {
+      "minimumValue": 63676,
+      "minimumWeight": 4,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "grape": {
+      "minimumValue": 7085,
+      "minimumWeight": 2.85,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },  
+    "greenapple": {
+      "minimumValue": 271,
+      "minimumWeight": 2.85,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "guanabana": {
+      "minimumValue": 63626,
+      "minimumWeight": 3.8,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "hive": {
+      "minimumValue": 55955,
+      "minimumWeight": 7.6,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "honeysuckle": {
+      "minimumValue": 90250,
+      "minimumWeight": 11.4,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "horneddinoshroom": {
+      "minimumValue": 62272,
+      "minimumWeight": 4.75,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "horsetail": {
+      "minimumValue": 27000,
+      "minimumWeight": 3,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "kiwi": {
+      "minimumValue": 2482,
+      "minimumWeight": 4.5,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "lavender": {
+      "minimumValue": 22563,
+      "minimumWeight": 0.26,
+      "tier": "uncommon",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "libertylily": {
+      "minimumValue": 27075,
+      "minimumWeight": 6.17,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "lilac": {
+      "minimumValue": 31588,
+      "minimumWeight": 2.85,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "lilyofthevalley": {
+      "minimumValue": 44331,
+      "minimumWeight": 5.69,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "lingonberry": {
+      "minimumValue": 35000,
+      "minimumWeight": 0.55,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "loquat": { 
+      "minimumValue": 7220,
+      "minimumWeight": 6.18,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "lotus": {  
+      "minimumValue": 31588,
+      "minimumWeight": 19,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "lumira": {
+      "minimumValue": 76713,
+      "minimumWeight": 5.7,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "mango": {
+      "minimumValue": 5866,
+      "minimumWeight": 14.25,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "manuka": {
+      "minimumValue": 22563,
+      "minimumWeight": 0.29,
+      "tier": "uncommon",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "mint": {
+      "minimumValue": 4738,
+      "minimumWeight": 0.95,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "moonblossom": {
+      "minimumValue": 60166,
+      "minimumWeight": 2.85,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "moonflower": {
+      "minimumValue": 8574,
+      "minimumWeight": 1.9,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "moonglow": {
+      "minimumValue": 22563,
+      "minimumWeight": 6.65,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "moonmango": {
+      "minimumValue": 45125,
+      "minimumWeight": 11.5,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "moonmelon": {
+      "minimumValue": 16245,
+      "minimumWeight": 7.6,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "mushroom": {
+      "minimumValue": 136278,
+      "minimumWeight": 23.75,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "nectarine": {
+      "minimumValue": 43320,
+      "minimumWeight": 2.85,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "nectarshade": {
+      "minimumValue": 45125,
+      "minimumWeight": 0.76,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "nectarthorn": {
+      "minimumValue": 38000,
+      "minimumWeight": 6.65,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "nightshade": {
+      "minimumValue": 3159,
+      "minimumWeight": 0.48,
+      "tier": "uncommon",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "orangetulip": {
+      "minimumValue": 767,
+      "minimumWeight": 0.05,
+      "tier": "uncommon",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "papaya": {
+      "minimumValue": 903,
+      "minimumWeight": 2.85,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "paradisepetal": {
+      "minimumValue": 25000,
+      "minimumWeight": 2.75,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "parasolflower": {
+      "minimumValue": 180500,
+      "minimumWeight": 5.69,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "passionfruit": {
+      "minimumValue": 3204,
+      "minimumWeight": 2.85,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "peacelily": {
+      "minimumValue": 22000,
+      "minimumWeight": 0.57,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "peach": {
+      "minimumValue": 271,
+      "minimumWeight": 1.9,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pear": {
+      "minimumValue": 18050,
+      "minimumWeight": 2.85,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "pepper": {
+      "minimumValue": 7220,
+      "minimumWeight": 4.75,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pineapple": {
+      "minimumValue": 1805,
+      "minimumWeight": 2.85,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pinklily": {
+      "minimumValue": 58663,
+      "minimumWeight": 5.7,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pitcherplant": {
+      "minimumValue": 28880,
+      "minimumWeight": 11.4,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pricklypear": {
+      "minimumValue": 6318,
+      "minimumWeight": 6.65,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "pumpkin": {
+      "minimumValue": 10830,
+      "minimumWeight": 7.6,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "purpledahlia": {
+      "minimumValue": 67688,
+      "minimumWeight": 11.4,
+      "tier": "mythical",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "rafflesia": {
+      "minimumValue": 3159,
+      "minimumWeight": 7.6,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "raspberry": {
+      "minimumValue": 90,
+      "minimumWeight": 0.71,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "redlollipop": {
+      "minimumValue": 45125,
+      "minimumWeight": 3.8,
+      "tier": "uncommon",
+      "currently-obtainable": false,
+      "Multi-harvest": false
+    },
+    "rose": {
+      "minimumValue": 4513,
+      "minimumWeight": 0.95,
+      "tier": "uncommon",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "rosydelight": {
+      "minimumValue": 62273,
+      "minimumWeight": 9.5,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "soulfruit": {
+      "minimumValue": 6994,
+      "minimumWeight": 23.75,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "starfruit": {
+      "minimumValue": 13538,
+      "minimumWeight": 2.85,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "stonebite": {
+      "minimumValue": 31588,
+      "minimumWeight": 0.95,
+      "tier": "uncommon",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "strawberry": {
+      "minimumValue": 14,
+      "minimumWeight": 0.29,
+      "tier": "common",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "succulent": {
+      "minimumValue": 22563,
+      "minimumWeight": 4.75,
+      "tier": "rare",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "sugarapple": {
+      "minimumValue": 43320,
+      "minimumWeight": 8.55,
+      "tier": "prismatic",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "suncoil": {
+      "minimumValue": 72200,
+      "minimumWeight": 9.5,
+      "tier": "mythical",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "sunflower": {
+      "minimumValue": 144400,
+      "minimumWeight": 15.68,
+      "tier": "divine",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "tomato": {
+      "minimumValue": 27,
+      "minimumWeight": 0.48,
+      "tier": "rare",
+      "currently-obtainable": true,
+      "Multi-harvest": true
+    },
+    "travelersfruit": {
+      "minimumValue": 53248,
+      "minimumWeight": 14.25,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "venusflytrap": {
+      "minimumValue": 76713,
+      "minimumWeight": 9.5,
+      "tier": "divine",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "violetcorn": {
+      "minimumValue": 45125,
+      "minimumWeight": 2.85,
+      "tier": "legendary",
+      "currently-obtainable": false,
+      "Multi-harvest": true
+    },
+    "watermelon": {
+      "minimumValue": 2500,
+      "minimumWeight": 6.65,
+      "tier": "legendary",
+      "currently-obtainable": true,
+      "Multi-harvest": false
+    },
+    "wildcarrot": {
+      "minimumValue": 22563,
+      "minimumWeight": 0.29,
+      "tier": "uncommon",
+      "currently-obtainable": false,
+      "Multi-harvest": false
     }
-  },
-  "values": {
-    "aloevera": 62300,
-    "amberspine": 55000,
-    "apple": 248,
-    "avocado": 316,
-    "bamboo": 3600,
-    "banana": 1600,
-    "beanstalk": 25300,
-    "beebalm": 16200,
-    "bellpepper": 5000,
-    "bendboo": 139900,
-    "bloodbanana": 5400,
-    "blueberry": 18,
-    "boneblossom": 157900,
-    "boneboo": 127400,
-    "burningbud": 45100,
-    "cacao": 8500,
-    "cactus": 1200,
-    "candyblossom": 89000,
-    "candysunflower": 25000,
-    "cantaloupe": 890,
-    "carrot": 18,
-    "cauliflower": 45,
-    "celestiberry": 234000,
-    "chocolatecarrot": 67,
-    "coconut": 450,
-    "cocovine": 12000,
-    "corn": 125,
-    "cranberry": 89,
-    "crocus": 1500,
-    "cursedfruit": 450000,
-    "daffodil": 2300,
-    "dandelion": 156,
-    "delphinium": 8900,
-    "dragonfruit": 12000,
-    "dragonpepper": 34000,
-    "durian": 5600,
-    "easteregg": 125000,
-    "eggplant": 234,
-    "elephantears": 23400,
-    "emberlily": 78000,
-    "feijoa": 890,
-    "fireflyfern": 45000,
-    "fireworkflower": 156000,
-    "fossilight": 234000,
-    "foxglove": 12000,
-    "giantpinecone": 89000,
-    "glowshroom": 23400,
-    "grandvolcania": 567000,
-    "grape": 345,
-    "greenapple": 456,
-    "guanabana": 2300,
-    "hive": 45000,
-    "honeysuckle": 12000,
-    "horneddinoshroom": 234000,
-    "horsetail": 5600,
-    "kiwi": 890,
-    "lavender": 3400,
-    "libertylily": 78000,
-    "lilac": 8900,
-    "lilyofthevalley": 23400,
-    "lingonberry": 234,
-    "loquat": 1200,
-    "lotus": 12000,
-    "lumira": 89000,
-    "mango": 1200,
-    "manuka": 8900,
-    "mint": 567,
-    "moonblossom": 45000,
-    "moonflower": 67000,
-    "moonglow": 123000,
-    "moonmango": 34000,
-    "moonmelon": 56000,
-    "mushroom": 23,
-    "nectarine": 1200,
-    "nectarshade": 23400,
-    "nectarthorn": 45000,
-    "nightshade": 12000,
-    "orangetulip": 8900,
-    "papaya": 2300,
-    "paradisepetal": 234000,
-    "parasolflower": 67000,
-    "passionfruit": 3400,
-    "peacelily": 45000,
-    "peach": 890,
-    "pear": 456,
-    "pepper": 234,
-    "pineapple": 2300,
-    "pinklily": 34000,
-    "pitcherplant": 23400,
-    "pricklypear": 5600,
-    "pumpkin": 1200,
-    "purpledahlia": 56000,
-    "rafflesia": 123000,
-    "raspberry": 345,
-    "redlolipop": 78000,
-    "rose": 8900,
-    "rosydelight": 67000,
-    "soulfruit": 456000,
-    "starfruit": 12000,
-    "stonebite": 34000,
-    "strawberry": 14,
-    "succulent": 2300,
-    "sugarapple": 5600,
-    "suncoil": 89000,
-    "sunflower": 3400,
-    "tomato": 123,
-    "travelersfruit": 234000,
-    "venusflytrap": 45000,
-    "violetcorn": 23400,
-    "watermelon": 890,
-    "wildcarrot": 56
   }
 } 
